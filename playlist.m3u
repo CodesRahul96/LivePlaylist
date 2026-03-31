@@ -331,8 +331,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=381002&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=381001&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Comedy.png" group-title="Tamil",Ibc Comedy
 https://freelivtv.xyz/oppu/m3u.php?id=381000&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC.png" group-title="Tamil",Ibc Canada
-https://freelivtv.xyz/oppu/m3u.php?id=380999&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="Tamil",Ibc Tamil
 https://freelivtv.xyz/oppu/m3u.php?id=380998&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451" group-title="Tamil",Chutti TV
@@ -699,73 +697,67 @@ https://freelivtv.xyz/oppu/m3u.php?id=301500&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=301499&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Pink Panther 24/7
 https://freelivtv.xyz/oppu/m3u.php?id=301503&e=.m3u8
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan Entertainment",Pk
-https://freelivtv.xyz/oppu/m3u.php?id=25990&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pakistan Entertainment",Pk
-https://freelivtv.xyz/oppu/m3u.php?id=26043&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="Pakistan Entertainment",Pk Sindh TV
-https://freelivtv.xyz/oppu/m3u.php?id=103709&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Unknown Channel
 https://freelivtv.xyz/oppu/m3u.php?id=109946&e=.m3u8
-#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Colors ( ) 4K
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Colors ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109947&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Sony Set ( ) 4K
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Set ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109948&e=.m3u8
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Star Plus ( ) 4K
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Plus ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109949&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Zee TV ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Zee TV ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109950&e=.m3u8
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Star Bharat ( ) 4K
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Bharat ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109951&e=.m3u8
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",&Tv ( ) 4K
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",&Tv ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109952&e=.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Sony Sab ( ) 4K
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Sab ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109953&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Unknown Channel
 https://freelivtv.xyz/oppu/m3u.php?id=109954&e=.m3u8
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",&Pictures ( ) 4K
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",&Pictures ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109955&e=.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Sony Max ( ) 4K
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Max ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109957&e=.m3u8
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Zee Cinema ( ) 4K
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Zee Cinema ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109958&e=.m3u8
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Star Gold ( ) 4K
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Gold ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109959&e=.m3u8
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Star Gold Select ( ) 4K
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Gold Select ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109960&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Movies Active ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Movies Active ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109961&e=.m3u8
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",& Flix ( ) 4K
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",& Flix ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109962&e=.m3u8
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",& Prive ( ) 4K
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",& Prive ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109963&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",& Xplorer ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",& Xplorer ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109964&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Mn+ ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Mn+ ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109965&e=.m3u8
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Sony Pix ( ) 4K
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Pix ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109966&e=.m3u8
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Movies Now ( ) 4K
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Movies Now ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109968&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Star Movies ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Movies ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109970&e=.m3u8
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Star World ( ) 4K
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star World ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109971&e=.m3u8
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Discovery ( ) 4K
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Discovery ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109974&e=.m3u8
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Animal Planet ( ) 4K
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Animal Planet ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109975&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Nat Geo Wild ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Nat Geo Wild ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109976&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",National Geo ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",National Geo ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109977&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Sony Bbc Ear ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Bbc Ear ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109978&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Fox Life ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Fox Life ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=109980&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Colors Cineplex ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Colors Cineplex ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=206315&e=.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="Ian 4K Ultra Hd",Jalsha Movies ( )* 4K
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Jalsha Movies ( )* 4K
 https://freelivtv.xyz/oppu/m3u.php?id=206320&e=.m3u8
 #EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="Music",Zoom TV
 https://freelivtv.xyz/oppu/m3u.php?id=66190&e=.m3u8
@@ -847,49 +839,49 @@ https://freelivtv.xyz/oppu/m3u.php?id=270518&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=383530&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Showbox Music
 https://freelivtv.xyz/oppu/m3u.php?id=383529&e=.m3u8
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="Ian Documentary",Bbc Eart Hindi
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="Documentary",Bbc Eart Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206278&e=.m3u8
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-logo="" group-title="Ian Documentary",Travel Xp Eng
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-logo="" group-title="Documentary",Travel Xp Eng
 https://freelivtv.xyz/oppu/m3u.php?id=206279&e=.m3u8
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="Ian Documentary",Travel Xp Hindi
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="Documentary",Travel Xp Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206280&e=.m3u8
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Ian Documentary",Animal Planet Hindi
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206282&e=.m3u8
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Ian Documentary",Animal Planet Eng FHD
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet Eng FHD
 https://freelivtv.xyz/oppu/m3u.php?id=206283&e=.m3u8
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Ian Documentary",Nat Geo Hindi HD
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Documentary",Nat Geo Hindi HD
 https://freelivtv.xyz/oppu/m3u.php?id=206285&e=.m3u8
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Ian Documentary",Nat Geo Wild Hindi
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206286&e=.m3u8
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Ian Documentary",Discovery Hindi
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206287&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="Ian Documentary",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="Documentary",Discovery Science
 https://freelivtv.xyz/oppu/m3u.php?id=206289&e=.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="Ian Documentary",Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206291&e=.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Ian Documentary",Discovery Turbo
+#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentary",Discovery Turbo
 https://freelivtv.xyz/oppu/m3u.php?id=206292&e=.m3u8
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Ian Documentary",History 18 Hindi
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Documentary",History 18 Hindi
 https://freelivtv.xyz/oppu/m3u.php?id=206294&e=.m3u8
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Ian Documentary",History TV 18 FHD
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Documentary",History TV 18 FHD
 https://freelivtv.xyz/oppu/m3u.php?id=206295&e=.m3u8
-#EXTINF:-1 tvg-id="africamagicepic.za" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="Ian Documentary",Epic
+#EXTINF:-1 tvg-id="africamagicepic.za" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="Documentary",Epic
 https://freelivtv.xyz/oppu/m3u.php?id=206296&e=.m3u8
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Ian Documentary",Nat Geo Wild Eng FHD
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild Eng FHD
 https://freelivtv.xyz/oppu/m3u.php?id=206587&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Documentary",Doc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Doc
 https://freelivtv.xyz/oppu/m3u.php?id=363003&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Documentary",Doc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Doc
 https://freelivtv.xyz/oppu/m3u.php?id=363004&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Documentary",Doc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Doc
 https://freelivtv.xyz/oppu/m3u.php?id=363005&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Documentary",Doc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Doc
 https://freelivtv.xyz/oppu/m3u.php?id=363006&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Documentary",Doc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Doc
 https://freelivtv.xyz/oppu/m3u.php?id=363002&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="Ian Documentary",Bbc Eart Eng
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="Documentary",Bbc Eart Eng
 https://freelivtv.xyz/oppu/m3u.php?id=383184&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Ian Documentary",Nat Geo Eng HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Documentary",Nat Geo Eng HD
 https://freelivtv.xyz/oppu/m3u.php?id=383183&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Unknown Channel
 https://freelivtv.xyz/oppu/m3u.php?id=109982&e=.m3u8
@@ -913,113 +905,97 @@ https://freelivtv.xyz/oppu/m3u.php?id=109993&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=109994&e=.m3u8
 #EXTINF:-1 tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="Sports",Europsport ( ) 4K
 https://freelivtv.xyz/oppu/m3u.php?id=206324&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uk Asia",Colors Uk HD
-https://freelivtv.xyz/oppu/m3u.php?id=382230&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uk Asia",Colors Rishtey Uk
-https://freelivtv.xyz/oppu/m3u.php?id=382229&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uk Asia",Colors Cineplex Uk
-https://freelivtv.xyz/oppu/m3u.php?id=382228&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uk Asia",Star Gold Uk
-https://freelivtv.xyz/oppu/m3u.php?id=382224&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uk Asia",Star Plus Uk
-https://freelivtv.xyz/oppu/m3u.php?id=382216&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uk Asia",Star Bharat Uk
-https://freelivtv.xyz/oppu/m3u.php?id=382215&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Entertainment",In
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",In
 https://freelivtv.xyz/oppu/m3u.php?id=66161&e=.m3u8
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Ian Entertainment",Zee TV
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Entertainment",Zee TV
 https://freelivtv.xyz/oppu/m3u.php?id=221250&e=.m3u8
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Ian Entertainment",Zee TV HD
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Entertainment",Zee TV HD
 https://freelivtv.xyz/oppu/m3u.php?id=66162&e=.m3u8
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Ian Entertainment",Zee TV [ ] FHD
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Entertainment",Zee TV [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=66163&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Ian Entertainment",Sony Set (Tataplay)
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony Set (Tataplay)
 https://freelivtv.xyz/oppu/m3u.php?id=221251&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Ian Entertainment",Sony Set HD
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony Set HD
 https://freelivtv.xyz/oppu/m3u.php?id=66164&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Ian Entertainment",Sony Set [ ] FHD
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony Set [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=66165&e=.m3u8
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Ian Entertainment",Star Plus
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Entertainment",Star Plus
 https://freelivtv.xyz/oppu/m3u.php?id=221252&e=.m3u8
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Ian Entertainment",Star Plus HD
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Entertainment",Star Plus HD
 https://freelivtv.xyz/oppu/m3u.php?id=66166&e=.m3u8
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Ian Entertainment",Star Plus FHD
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Entertainment",Star Plus FHD
 https://freelivtv.xyz/oppu/m3u.php?id=66208&e=.m3u8
-#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Ian Entertainment",Colors
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Entertainment",Colors
 https://freelivtv.xyz/oppu/m3u.php?id=221254&e=.m3u8
-#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Ian Entertainment",Colors HD
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Entertainment",Colors HD
 https://freelivtv.xyz/oppu/m3u.php?id=66167&e=.m3u8
-#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Ian Entertainment",Colors [ ] FHD
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Entertainment",Colors [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=66168&e=.m3u8
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Ian Entertainment",Star Bharat
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Entertainment",Star Bharat
 https://freelivtv.xyz/oppu/m3u.php?id=221255&e=.m3u8
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Ian Entertainment",Star Bharat HD
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Entertainment",Star Bharat HD
 https://freelivtv.xyz/oppu/m3u.php?id=66170&e=.m3u8
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Ian Entertainment",Star Bharat [ ] FHD
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Entertainment",Star Bharat [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=66171&e=.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Ian Entertainment",Sony Sab
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Entertainment",Sony Sab
 https://freelivtv.xyz/oppu/m3u.php?id=221256&e=.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Ian Entertainment",Sony Sab HD
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Entertainment",Sony Sab HD
 https://freelivtv.xyz/oppu/m3u.php?id=66174&e=.m3u8
-#EXTINF:-1 tvg-id="sonysab.uk" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Ian Entertainment",Sony Sab Uk*
-https://freelivtv.xyz/oppu/m3u.php?id=66175&e=.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Ian Entertainment",Sony Sab [ ] FHD
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Entertainment",Sony Sab [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=104194&e=.m3u8
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Ian Entertainment",&Tv
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Entertainment",&Tv
 https://freelivtv.xyz/oppu/m3u.php?id=221253&e=.m3u8
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Ian Entertainment",&Tv HD
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Entertainment",&Tv HD
 https://freelivtv.xyz/oppu/m3u.php?id=66172&e=.m3u8
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Ian Entertainment",&Tv [ ] FHD
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Entertainment",&Tv [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=66173&e=.m3u8
-#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="Ian Entertainment",Colors Rishtey
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="Entertainment",Colors Rishtey
 https://freelivtv.xyz/oppu/m3u.php?id=66188&e=.m3u8
-#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Ian Entertainment",Color Cineplex Superhits
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Entertainment",Color Cineplex Superhits
 https://freelivtv.xyz/oppu/m3u.php?id=66199&e=.m3u8
-#EXTINF:-1 tvg-id="0" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Ian Entertainment",Zee Action
+#EXTINF:-1 tvg-id="0" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Entertainment",Zee Action
 https://freelivtv.xyz/oppu/m3u.php?id=66191&e=.m3u8
-#EXTINF:-1 tvg-id="sonypal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg" group-title="Ian Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="sonypal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg" group-title="Entertainment",Sony Pal
 https://freelivtv.xyz/oppu/m3u.php?id=104192&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="Ian Entertainment",Big Magic
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="Entertainment",Big Magic
 https://freelivtv.xyz/oppu/m3u.php?id=104198&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="Ian Entertainment",B4U Kadak
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="Entertainment",B4U Kadak
 https://freelivtv.xyz/oppu/m3u.php?id=104199&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Ian Entertainment",Manoranjan TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Entertainment",Manoranjan TV
 https://freelivtv.xyz/oppu/m3u.php?id=104203&e=.m3u8
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="Ian Entertainment",Zee Anmol
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="Entertainment",Zee Anmol
 https://freelivtv.xyz/oppu/m3u.php?id=66357&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Ian Entertainment",DD National
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Entertainment",DD National
 https://freelivtv.xyz/oppu/m3u.php?id=112975&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="Ian Entertainment",Zee TV Canada
-https://freelivtv.xyz/oppu/m3u.php?id=112976&e=.m3u8
-#EXTINF:-1 tvg-id="starutsav.in" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="Ian Entertainment",Star Utsav
+#EXTINF:-1 tvg-id="starutsav.in" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="Entertainment",Star Utsav
 https://freelivtv.xyz/oppu/m3u.php?id=112977&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ian Entertainment",Dhamaal Tv*
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Entertainment",Dhamaal Tv*
 https://freelivtv.xyz/oppu/m3u.php?id=112978&e=.m3u8
-#EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="Ian Entertainment",Sony Wah
+#EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="Entertainment",Sony Wah
 https://freelivtv.xyz/oppu/m3u.php?id=112979&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg" group-title="Ian Entertainment",Dabangg
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg" group-title="Entertainment",Dabangg
 https://freelivtv.xyz/oppu/m3u.php?id=206270&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="Ian Entertainment",Zee Aflam
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="Entertainment",Zee Aflam
 https://freelivtv.xyz/oppu/m3u.php?id=206277&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="Ian Entertainment",Zee Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="Entertainment",Zee Bollywood
 https://freelivtv.xyz/oppu/m3u.php?id=207200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Ian Entertainment",Bbo HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Entertainment",Bbo HD
 https://freelivtv.xyz/oppu/m3u.php?id=66277&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" group-title="Ian Entertainment",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" group-title="Entertainment",Bhojpuri Cinema
 https://freelivtv.xyz/oppu/m3u.php?id=269091&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Entertainment",Bbo Classic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Bbo Classic
 https://freelivtv.xyz/oppu/m3u.php?id=308228&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Entertainment",Colors Infinity FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Colors Infinity FHD
 https://freelivtv.xyz/oppu/m3u.php?id=355571&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/fe1331a5-f411-46a5-a24c-3af5172a60dc/2558617115/dangal-tv-live-series-hints-logo" group-title="Ian Entertainment",Dangal
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/fe1331a5-f411-46a5-a24c-3af5172a60dc/2558617115/dangal-tv-live-series-hints-logo" group-title="Entertainment",Dangal
 https://freelivtv.xyz/oppu/m3u.php?id=355655&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Entertainment",Shemaroo TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Shemaroo TV
 https://freelivtv.xyz/oppu/m3u.php?id=355809&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Entertainment",B4U Bhojpuri
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",B4U Bhojpuri
 https://freelivtv.xyz/oppu/m3u.php?id=355988&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1g.fun/logos2/manoranjan_grand.jpg" group-title="Ian Entertainment",Manoranjan Grand
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1g.fun/logos2/manoranjan_grand.jpg" group-title="Entertainment",Manoranjan Grand
 https://freelivtv.xyz/oppu/m3u.php?id=355999&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Dangal-2.jpg" group-title="Ian Entertainment",Dangal 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Dangal-2.jpg" group-title="Entertainment",Dangal 2
 https://freelivtv.xyz/oppu/m3u.php?id=356002&e=.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="Movies",Star Gold Thrills
 https://freelivtv.xyz/oppu/m3u.php?id=221258&e=.m3u8
@@ -1047,8 +1023,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=221261&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=206307&e=.m3u8
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Movies",Zee Cinema [ ] FHD
 https://freelivtv.xyz/oppu/m3u.php?id=206308&e=.m3u8
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Movies",Zee Cinema Usa
-https://freelivtv.xyz/oppu/m3u.php?id=206268&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="Movies",Dhamaka Movies B4U
 https://freelivtv.xyz/oppu/m3u.php?id=66184&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="Movies",Oscar Movies
@@ -1085,8 +1059,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=104204&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=104206&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="Movies",Wow Cinema One
 https://freelivtv.xyz/oppu/m3u.php?id=106132&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Movies",Unknown Channel
-https://freelivtv.xyz/oppu/m3u.php?id=112970&e=.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" group-title="Movies",Star Utsav Movies
 https://freelivtv.xyz/oppu/m3u.php?id=112971&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="Movies",Goldmines
@@ -1135,16 +1107,10 @@ https://freelivtv.xyz/oppu/m3u.php?id=66287&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=66315&e=.m3u8
 #EXTINF:-1 tvg-id="mnplushd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="English",Mn+ HD
 https://freelivtv.xyz/oppu/m3u.php?id=66244&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="Ian Active",Axn HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="Active",Axn HD
 https://freelivtv.xyz/oppu/m3u.php?id=66313&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Indus_News_logo.png" group-title="News",Pk Indus News
-https://freelivtv.xyz/oppu/m3u.php?id=103693&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png" group-title="News",Pk Sindh News
-https://freelivtv.xyz/oppu/m3u.php?id=103708&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://vod-logo.net/photos/3ba9233f5a1d41471fef39e850eb0fb8.png" group-title="Kids",Af
 https://freelivtv.xyz/oppu/m3u.php?id=238537&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Punjabi",•●★ Welcome ★●•
-https://freelivtv.xyz/oppu/m3u.php?id=244361&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Punjabi",Pb Ptc Punjabi
 https://freelivtv.xyz/oppu/m3u.php?id=244362&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Pop Pataka HD
@@ -1259,14 +1225,10 @@ https://freelivtv.xyz/oppu/m3u.php?id=244417&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=355565&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Fateh TV
 https://freelivtv.xyz/oppu/m3u.php?id=355695&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="News",•●★ Welcome ★●•
-https://freelivtv.xyz/oppu/m3u.php?id=244797&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Abp News
 https://freelivtv.xyz/oppu/m3u.php?id=244798&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",DD News
 https://freelivtv.xyz/oppu/m3u.php?id=244799&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News State Up Uk
-https://freelivtv.xyz/oppu/m3u.php?id=244800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee Madhya Pradesh Chhattisgarh News
 https://freelivtv.xyz/oppu/m3u.php?id=244801&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee Rajasthan News
@@ -1317,8 +1279,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=244829&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=244831&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Hnn 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=244832&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ANN-News.png" group-title="News",Urdu Ann News
-https://freelivtv.xyz/oppu/m3u.php?id=244834&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Assamese Pratham Khabar 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=244835&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Stv Haryana News
@@ -1349,8 +1309,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=244854&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=244855&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kashish-News.png" group-title="News",Kashish News
 https://freelivtv.xyz/oppu/m3u.php?id=244856&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News 18 Urdu
-https://freelivtv.xyz/oppu/m3u.php?id=244861&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNN-News18.png" group-title="News",Cnn News 18 FHD
 https://freelivtv.xyz/oppu/m3u.php?id=244862&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News18 Mp Chhattisgarh
@@ -1381,22 +1339,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=341135&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=345354&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-TV18.png" group-title="News",Cnbc Tv18
 https://freelivtv.xyz/oppu/m3u.php?id=355645&e=.m3u8
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="Bangladesh",Bangla Zee Bangla HD
-https://freelivtv.xyz/oppu/m3u.php?id=245893&e=.m3u8
-#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="Bangladesh",Bangla Zee Bangla Cinema
-https://freelivtv.xyz/oppu/m3u.php?id=245897&e=.m3u8
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangladesh",Bangla Star Jalsa HD
-https://freelivtv.xyz/oppu/m3u.php?id=245898&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="Bangladesh",Bangla Jalsa Movies HD
-https://freelivtv.xyz/oppu/m3u.php?id=245900&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Bangladesh",Bangla Sun Bangla
-https://freelivtv.xyz/oppu/m3u.php?id=245906&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="Bangladesh",Bd Loc Independent
-https://freelivtv.xyz/oppu/m3u.php?id=245916&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Republic Bangla
-https://freelivtv.xyz/oppu/m3u.php?id=355824&e=.m3u8
-#EXTINF:-1 tvg-id="10tv.in" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Religious",•●★ Welcome ★●•
-https://freelivtv.xyz/oppu/m3u.php?id=246163&e=.m3u8
 #EXTINF:-1 tvg-id="10tv.in" tvg-logo="" group-title="Religious",Regional 10Tv
 https://freelivtv.xyz/oppu/m3u.php?id=246164&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Regional 7Smusic
@@ -1551,31 +1493,31 @@ https://freelivtv.xyz/oppu/m3u.php?id=252502&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=252504&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",05 Punjabi Movies 24/7
 https://freelivtv.xyz/oppu/m3u.php?id=341325&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Ian Show Entertainment 24X7",Bigg Boss S16 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Show Entertainment 24X7",Bigg Boss S16 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=207233&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Ian Show Entertainment 24X7",Bigg Boss S15 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Show Entertainment 24X7",Bigg Boss S15 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=219642&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Ian Show Entertainment 24X7",Cid
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Show Entertainment 24X7",Cid
 https://freelivtv.xyz/oppu/m3u.php?id=340808&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Ian Show Entertainment 24X7",Cid
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Show Entertainment 24X7",Cid
 https://freelivtv.xyz/oppu/m3u.php?id=340873&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="Ian Show Entertainment 24X7",Crime Patrol Shatrak 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="Show Entertainment 24X7",Crime Patrol Shatrak 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=340874&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="Ian Show Entertainment 24X7",Crime Patrol Dial100 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="Show Entertainment 24X7",Crime Patrol Dial100 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=340875&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="Ian Show Entertainment 24X7",Crime Patrol 2.0 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="Show Entertainment 24X7",Crime Patrol 2.0 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=340876&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="Ian Show Entertainment 24X7",The Kapil Sharma Show 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="Show Entertainment 24X7",The Kapil Sharma Show 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=342075&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" group-title="Ian Show Entertainment 24X7",Indian Idol S13 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" group-title="Show Entertainment 24X7",Indian Idol S13 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=344483&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" group-title="Ian Show Entertainment 24X7",Super Dancer Chapter4 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" group-title="Show Entertainment 24X7",Super Dancer Chapter4 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=344486&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="Ian Show Entertainment 24X7",Crime Patrol Shatrak S2 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="Show Entertainment 24X7",Crime Patrol Shatrak S2 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=345742&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ian Show Entertainment 24X7",Horror Drama 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Show Entertainment 24X7",Horror Drama 24X7
 https://freelivtv.xyz/oppu/m3u.php?id=368954&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="Ian Show Entertainment 24X7",Cid
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="Show Entertainment 24X7",Cid
 https://freelivtv.xyz/oppu/m3u.php?id=378909&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",01 Tollywood Movies 24/7
 https://freelivtv.xyz/oppu/m3u.php?id=253596&e=.m3u8
@@ -1705,38 +1647,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=362994&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=362995&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",46 Hollywood Hindi Dubbed 24/7
 https://freelivtv.xyz/oppu/m3u.php?id=362996&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/815edb7973e1931d407104b75ab24c2b.png" group-title="Music",Us Music Choice Indie
-https://freelivtv.xyz/oppu/m3u.php?id=346644&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/12584b334b66c776ff349752778ec7d7.png" group-title="News",Us Abc Indianapolis Indiana Wrtv TV
-https://freelivtv.xyz/oppu/m3u.php?id=346705&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/6df4ab8de0b4cfedd66dd3d3dc5fbd66.png" group-title="News",Us Cbs Bloomington Indiana Wttv
-https://freelivtv.xyz/oppu/m3u.php?id=346772&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/bdd6c48c007abca651bcf8ec8c91e45e.png" group-title="News",Us Cbs Evansville Indiana Wevv TV
-https://freelivtv.xyz/oppu/m3u.php?id=346797&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e9875cfac2524080b4b9e0404a4d47a5.png" group-title="News",Us Cbs Fort Wayne Indiana Wane TV
-https://freelivtv.xyz/oppu/m3u.php?id=346800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea180fcc2ffb462f8af28ab7be9039db.png" group-title="News",Us Cbs South Bend Indiana Wsbt TV
-https://freelivtv.xyz/oppu/m3u.php?id=346864&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a18a1a02692f6c8a7317785a646a685d.png" group-title="News",Us Fox Fort Wayne Indiana Wfft TV
-https://freelivtv.xyz/oppu/m3u.php?id=346926&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fc5a190c37cbbbb3642189b70419d5f.png" group-title="News",Us Fox Indianapolis Indiana Wxin TV
-https://freelivtv.xyz/oppu/m3u.php?id=346936&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b3b0cd743ee62ca43e24ce5a0049b2a.png" group-title="News",Us Nbc Evansville Indiana Wfie TV
-https://freelivtv.xyz/oppu/m3u.php?id=347089&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/98e8a6dff53d871f137cc9d2022bd0e1.png" group-title="News",Us Nbc Fort Wayne Indiana Wpta Dt 2
-https://freelivtv.xyz/oppu/m3u.php?id=347093&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/c1a464d4f97a8a62c0a4a94836be4623.png" group-title="News",Us Nbc Indianapolis Indiana Wthr TV
-https://freelivtv.xyz/oppu/m3u.php?id=347103&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c09ce61b00f638b29d68ad29ce0ee483.png" group-title="News",Us Nbc South Bend Indiana Wndu TV
-https://freelivtv.xyz/oppu/m3u.php?id=347171&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/31cfd84065645a753e3c0944495a6572.png" group-title="News",Us Nbc Terre Haute Indiana Wtwo TV
-https://freelivtv.xyz/oppu/m3u.php?id=347182&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/72cee830b80c1464666f319ce14d4191.png" group-title="Sports",Us Bally Sports Indiana
-https://freelivtv.xyz/oppu/m3u.php?id=347233&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7d8041e50848d09cf7ee9bcf3c38560d.png" group-title="News",Ca Cbc Windsor Cbet Dt
-https://freelivtv.xyz/oppu/m3u.php?id=348965&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Onesia",•●★ Welcome ★●•
-https://freelivtv.xyz/oppu/m3u.php?id=350876&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 01. ETV Live Event
 https://freelivtv.xyz/oppu/m3u.php?id=350877&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 02. ETV Live Event 02
@@ -2111,8 +2021,6 @@ https://freelivtv.xyz/oppu/m3u.php?id=351061&e=.m3u8
 https://freelivtv.xyz/oppu/m3u.php?id=351429&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/30f94eb634e649d8be8aa3ab72b4d332.png" group-title="Latino",La Univision Joliet Indiana Wgbo TV
 https://freelivtv.xyz/oppu/m3u.php?id=351961&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f5f2badf1c2451368bd4cf53694d8b32.png" group-title="South Africa",Za Mindset Learn
-https://freelivtv.xyz/oppu/m3u.php?id=353917&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b3592b667acca6b31d98e2ea4b8d7640.jpg" group-title="Sweden",Se Dagens Industri TV
 https://freelivtv.xyz/oppu/m3u.php?id=354367&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/48/Pacers_de_l%27Indiana_2017.png" group-title="Nba Team (Live Events)",Nba Team Indiana Pacers
