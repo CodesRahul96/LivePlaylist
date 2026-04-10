@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-10 10:34:34 UTC)
+#EXTM3U (Last Checked: 2026-04-10 10:35:23 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="ABP ANANDA" tvg-logo="" group-title="Bengali",ABP Ananda
 https://vt-ip.vodep39240327.workers.dev/751.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="AKASH BANGLA" tvg-logo="" group-title="Bengali",Akash Bangla
@@ -8774,6 +8774,8 @@ https://vt-ip.vodep39240327.workers.dev/1667.m3u8
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442040682617_IFC_Namdhari_FC_vs_Shillong_Lajong_FC_landscape_thumb.jpg" group-title="Sonyliv",Namdhari Fc Vs Shillong Lajong Fc 10 Apr
+https://sonydaimenew.akamaized.net/hls/live/2022319/IFL_Namd1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775860321~acl=/*~id=16425857092191090112316935883896~hmac=7e9b5916794ebe3f1e17b46a828a864b92be6ad0f1939b0bc52b45877dc086e1
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
