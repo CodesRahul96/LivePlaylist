@@ -1,69 +1,69 @@
-#EXTM3U (Last Checked: 2026-04-10 09:43:28 UTC)
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Hollywood Blockbuster",Movies Indiana Jones 24/7
+#EXTM3U (Last Checked: 2026-04-10 09:45:44 UTC)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7HollywoodBlockbuster",Movies Indiana Jones 24/7
 https://restream-bay.vercel.app/?id=369820&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Pothwari Drama",Hindko Drama Vol 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7PothwariDrama",Hindko Drama Vol 1
 https://restream-bay.vercel.app/?id=369905&e=.m3u8
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",& Flix ( ) 4K
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",& Flix ( ) 4K
 https://restream-bay.vercel.app/?id=109962&e=.m3u8
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",& Prive ( ) 4K
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",& Prive ( ) 4K
 https://restream-bay.vercel.app/?id=109963&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",& Xplorer ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",& Xplorer ( ) 4K
 https://restream-bay.vercel.app/?id=109964&e=.m3u8
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",&Pictures ( ) 4K
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",&Pictures ( ) 4K
 https://restream-bay.vercel.app/?id=109955&e=.m3u8
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",&Tv ( ) 4K
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",&Tv ( ) 4K
 https://restream-bay.vercel.app/?id=109952&e=.m3u8
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Animal Planet ( ) 4K
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Animal Planet ( ) 4K
 https://restream-bay.vercel.app/?id=109975&e=.m3u8
-#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Colors ( ) 4K
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Colors ( ) 4K
 https://restream-bay.vercel.app/?id=109947&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Colors Cineplex ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Colors Cineplex ( ) 4K
 https://restream-bay.vercel.app/?id=206315&e=.m3u8
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Discovery ( ) 4K
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Discovery ( ) 4K
 https://restream-bay.vercel.app/?id=109974&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Fox Life ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Fox Life ( ) 4K
 https://restream-bay.vercel.app/?id=109980&e=.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Jalsha Movies ( )* 4K
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Jalsha Movies ( )* 4K
 https://restream-bay.vercel.app/?id=206320&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Mn+ ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Mn+ ( ) 4K
 https://restream-bay.vercel.app/?id=109965&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Movies Active ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Movies Active ( ) 4K
 https://restream-bay.vercel.app/?id=109961&e=.m3u8
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Movies Now ( ) 4K
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Movies Now ( ) 4K
 https://restream-bay.vercel.app/?id=109968&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Nat Geo Wild ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Nat Geo Wild ( ) 4K
 https://restream-bay.vercel.app/?id=109976&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",National Geo ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",National Geo ( ) 4K
 https://restream-bay.vercel.app/?id=109977&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Bbc Ear ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Sony Bbc Ear ( ) 4K
 https://restream-bay.vercel.app/?id=109978&e=.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony MAX ( ) 4K
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Sony MAX ( ) 4K
 https://restream-bay.vercel.app/?id=109957&e=.m3u8
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Pix ( ) 4K
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Sony Pix ( ) 4K
 https://restream-bay.vercel.app/?id=109966&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony SET ( ) 4K
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Sony SET ( ) 4K
 https://restream-bay.vercel.app/?id=109948&e=.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Sab ( ) 4K
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Sony Sab ( ) 4K
 https://restream-bay.vercel.app/?id=109953&e=.m3u8
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Bharat ( ) 4K
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Star Bharat ( ) 4K
 https://restream-bay.vercel.app/?id=109951&e=.m3u8
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Gold ( ) 4K
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Star Gold ( ) 4K
 https://restream-bay.vercel.app/?id=109959&e=.m3u8
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Gold Select ( ) 4K
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Star Gold Select ( ) 4K
 https://restream-bay.vercel.app/?id=109960&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Movies ( ) 4K
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Star Movies ( ) 4K
 https://restream-bay.vercel.app/?id=109970&e=.m3u8
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Plus ( ) 4K
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Star Plus ( ) 4K
 https://restream-bay.vercel.app/?id=109949&e=.m3u8
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star World ( ) 4K
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Star World ( ) 4K
 https://restream-bay.vercel.app/?id=109971&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Unknown Channel
 https://restream-bay.vercel.app/?id=109946&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Unknown Channel
 https://restream-bay.vercel.app/?id=109954&e=.m3u8
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Zee Cinema ( ) 4K
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Zee Cinema ( ) 4K
 https://restream-bay.vercel.app/?id=109958&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Zee TV ( ) 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4KUltraHd",Zee TV ( ) 4K
 https://restream-bay.vercel.app/?id=109950&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="Active",Axn HD
 https://restream-bay.vercel.app/?id=66313&e=.m3u8
