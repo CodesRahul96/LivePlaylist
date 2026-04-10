@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-10 09:07:00 UTC)
+#EXTM3U (Last Checked: 2026-04-10 09:30:20 UTC)
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Hollywood Blockbuster",Movies Indiana Jones 24/7
 https://restream-bay.vercel.app/?id=369820&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Pothwari Drama",Hindko Drama Vol 1
@@ -67,176 +67,136 @@ https://restream-bay.vercel.app/?id=109958&e=.m3u8
 https://restream-bay.vercel.app/?id=109950&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="Active",Axn HD
 https://restream-bay.vercel.app/?id=66313&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="Bangladesh",ABP Ananda
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="Bengali",ABP Ananda
 https://restream-bay.vercel.app/?id=245991&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" group-title="Bangladesh",BTV Ctg
+#EXTINF:-1 tvg-id="" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" group-title="Bengali",BTV Ctg
 https://restream-bay.vercel.app/?id=245990&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-bangla-21-8660.jpg" group-title="Bangladesh",Bangla 21 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-bangla-21-8660.jpg" group-title="Bengali",Bangla 21 TV
 https://restream-bay.vercel.app/?id=246003&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="Bangladesh",Bangla Jalsa Movies HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="Bengali",Bangla Jalsa Movies HD
 https://restream-bay.vercel.app/?id=245900&e=.m3u8
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangladesh",Bangla Star Jalsa HD
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bengali",Bangla Star Jalsa HD
 https://restream-bay.vercel.app/?id=245898&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Bangladesh",Bangla Sun Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Bengali",Bangla Sun Bangla
 https://restream-bay.vercel.app/?id=245906&e=.m3u8
-#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="Bangladesh",Bangla Zee Bangla Cinema
+#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="Bengali",Bangla Zee Bangla Cinema
 https://restream-bay.vercel.app/?id=245897&e=.m3u8
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="Bangladesh",Bangla Zee Bangla HD
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="Bengali",Bangla Zee Bangla HD
 https://restream-bay.vercel.app/?id=245893&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245942&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245955&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245957&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/58/a9/73/58a97334970cc43ef4a9a558c3c4f806.jpg" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/58/a9/73/58a97334970cc43ef4a9a558c3c4f806.jpg" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245964&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245965&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245966&e=.m3u8
-#EXTINF:-1 tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=245989&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/cropped-Aamar-Bangla-Logo.jpg" group-title="Bangladesh",Bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/cropped-Aamar-Bangla-Logo.jpg" group-title="Bengali",Bd
 https://restream-bay.vercel.app/?id=246007&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="Bangladesh",Bd Ananda TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="Bengali",Bd Ananda TV
 https://restream-bay.vercel.app/?id=245929&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" group-title="Bangladesh",Bd Channel 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" group-title="Bengali",Bd Channel 24
 https://restream-bay.vercel.app/?id=245969&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh",Bd Ekhon TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bengali",Bd Ekhon TV
 https://restream-bay.vercel.app/?id=245943&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",Bd Enter 10 Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" group-title="Bengali",Bd Enter 10 Bangla
 https://restream-bay.vercel.app/?id=245954&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Gaanbangla TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Gaanbangla TV
 https://restream-bay.vercel.app/?id=245935&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladesh",Bd HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bengali",Bd HD
 https://restream-bay.vercel.app/?id=245915&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangladesh",Bd HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bengali",Bd HD
 https://restream-bay.vercel.app/?id=245923&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qR1X9V5j/nbr-tv.png" group-title="Bangladesh",Bd HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qR1X9V5j/nbr-tv.png" group-title="Bengali",Bd HD
 https://restream-bay.vercel.app/?id=245962&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc 71Banglatv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc 71Banglatv
 https://restream-bay.vercel.app/?id=245907&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Bangladesh",Bd Loc Aakaash
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Bengali",Bd Loc Aakaash
 https://restream-bay.vercel.app/?id=245928&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladesh",Bd Loc Asian TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bengali",Bd Loc Asian TV
 https://restream-bay.vercel.app/?id=245908&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangladesh",Bd Loc Atn Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bengali",Bd Loc Atn Bangla
 https://restream-bay.vercel.app/?id=245909&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladesh",Bd Loc Atn News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bengali",Bd Loc Atn News
 https://restream-bay.vercel.app/?id=245905&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc BTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc BTV
 https://restream-bay.vercel.app/?id=245930&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bangladesh",Bd Loc BTV World
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bengali",Bd Loc BTV World
 https://restream-bay.vercel.app/?id=245922&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" group-title="Bangladesh",Bd Loc Bangla TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" group-title="Bengali",Bd Loc Bangla TV
 https://restream-bay.vercel.app/?id=245910&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Bijoy TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Bijoy TV
 https://restream-bay.vercel.app/?id=245946&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh",Bd Loc Channel 9
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bengali",Bd Loc Channel 9
 https://restream-bay.vercel.app/?id=245902&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Channel I
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Channel I
 https://restream-bay.vercel.app/?id=245913&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Channel S Bd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Channel S Bd
 https://restream-bay.vercel.app/?id=245947&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Colors Bangla
 https://restream-bay.vercel.app/?id=245895&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladesh",Bd Loc Dbc News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bengali",Bd Loc Dbc News
 https://restream-bay.vercel.app/?id=245914&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh",Bd Loc Deepto TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bengali",Bd Loc Deepto TV
 https://restream-bay.vercel.app/?id=245927&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Dhoom Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Dhoom Music
 https://restream-bay.vercel.app/?id=245921&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Ekushey TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Ekushey TV
 https://restream-bay.vercel.app/?id=245937&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",Bd Loc Gazi TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bengali",Bd Loc Gazi TV
 https://restream-bay.vercel.app/?id=245901&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="Bangladesh",Bd Loc Independent
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="Bengali",Bd Loc Independent
 https://restream-bay.vercel.app/?id=245916&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangladesh",Bd Loc Jamuna TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bengali",Bd Loc Jamuna TV
 https://restream-bay.vercel.app/?id=245917&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Masranga HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Masranga HD
 https://restream-bay.vercel.app/?id=245904&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="Bangladesh",Bd Loc Mohona TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="Bengali",Bd Loc Mohona TV
 https://restream-bay.vercel.app/?id=245920&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc NTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc NTV
 https://restream-bay.vercel.app/?id=245924&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Nagorik TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Nagorik TV
 https://restream-bay.vercel.app/?id=245939&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="Bangladesh",Bd Loc News 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="Bengali",Bd Loc News 24
 https://restream-bay.vercel.app/?id=245903&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Nexus TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Nexus TV
 https://restream-bay.vercel.app/?id=245949&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc R Plus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc R Plus
 https://restream-bay.vercel.app/?id=245918&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc R Plus Gold
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc R Plus Gold
 https://restream-bay.vercel.app/?id=245941&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh",Bd Loc Rtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bengali",Bd Loc Rtv
 https://restream-bay.vercel.app/?id=245911&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Ruposhi Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Ruposhi Bangla
 https://restream-bay.vercel.app/?id=245932&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc Sangeet Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc Sangeet Bangla
 https://restream-bay.vercel.app/?id=245933&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_the_Jatiya_Sangsad.svg/2048px-Emblem_of_the_Jatiya_Sangsad.svg.png" group-title="Bangladesh",Bd Loc Sangsad Bangladesh
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_the_Jatiya_Sangsad.svg/2048px-Emblem_of_the_Jatiya_Sangsad.svg.png" group-title="Bengali",Bd Loc Sangsad Bangladesh
 https://restream-bay.vercel.app/?id=245940&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladesh",Bd Loc Somoy TV News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bengali",Bd Loc Somoy TV News
 https://restream-bay.vercel.app/?id=245925&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Bd Loc TV9 Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Bd Loc TV9 Bangla
 https://restream-bay.vercel.app/?id=245950&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",Bd Movie Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" group-title="Bengali",Bd Movie Bangla
 https://restream-bay.vercel.app/?id=245951&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Bangladesh",Bd Travelxp Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Bengali",Bd Travelxp Bangla
 https://restream-bay.vercel.app/?id=245968&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQTD0TNVV6sAql7Idu2YuSO5M14buCwGQQmOZac=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",Jonmo Bhumi TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQTD0TNVV6sAql7Idu2YuSO5M14buCwGQQmOZac=s900-c-k-c0x00ffffff-no-rj" group-title="Bengali",Jonmo Bhumi TV
 https://restream-bay.vercel.app/?id=246001&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="Bangladesh",Nat Geo Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="Bengali",Nat Geo Bangla
 https://restream-bay.vercel.app/?id=245967&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" group-title="Bangladesh",News 18 Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" group-title="Bengali",News 18 Bangla
 https://restream-bay.vercel.app/?id=245992&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh",Republic Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bengali",Republic Bangla
 https://restream-bay.vercel.app/?id=355824&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Bangladesh",Sony Yay!
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Bengali",Sony Yay!
 https://restream-bay.vercel.app/?id=245959&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Cricket",1Sports
-https://restream-bay.vercel.app/?id=167586&e=.m3u8
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Cricket",Astro Cricket HD
-https://restream-bay.vercel.app/?id=167581&e=.m3u8
-#EXTINF:-1 tvg-id="ddsports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="Cricket",DD Sports
-https://restream-bay.vercel.app/?id=167588&e=.m3u8
-#EXTINF:-1 tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="Cricket",Eurosport HD
-https://restream-bay.vercel.app/?id=167585&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="Cricket",JIO Cricket
-https://restream-bay.vercel.app/?id=206297&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1 HD
-https://restream-bay.vercel.app/?id=167570&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2 HD
-https://restream-bay.vercel.app/?id=167571&e=.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3 HD
-https://restream-bay.vercel.app/?id=167572&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="Cricket",Sony Ten 4
-https://restream-bay.vercel.app/?id=167595&e=.m3u8
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Cricket",Sony Ten 5
-https://restream-bay.vercel.app/?id=167580&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="Cricket",Sports 18 ( ) 4K
-https://restream-bay.vercel.app/?id=382205&e=.m3u8
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Cricket",Star Sports 1 HD
-https://restream-bay.vercel.app/?id=167575&e=.m3u8
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Cricket",Star Sports 1 Hindi
-https://restream-bay.vercel.app/?id=167573&e=.m3u8
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Cricket",Star Sports 2 HD
-https://restream-bay.vercel.app/?id=167576&e=.m3u8
-#EXTINF:-1 tvg-id="starsports3.in" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Cricket",Star Sports 3 HD
-https://restream-bay.vercel.app/?id=167577&e=.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
-https://restream-bay.vercel.app/?id=167578&e=.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2
-https://restream-bay.vercel.app/?id=167579&e=.m3u8
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Cricket",Star Sports Tamil 1
-https://restream-bay.vercel.app/?id=167574&e=.m3u8
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Cricket",Willow Cricket HD
-https://restream-bay.vercel.app/?id=167583&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="Cricket",Willow Xtra
-https://restream-bay.vercel.app/?id=167582&e=.m3u8
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet Eng FHD
 https://restream-bay.vercel.app/?id=206283&e=.m3u8
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet Hindi
@@ -327,6 +287,16 @@ https://restream-bay.vercel.app/?id=66277&e=.m3u8
 https://restream-bay.vercel.app/?id=269091&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="Entertainment",Big Magic
 https://restream-bay.vercel.app/?id=104198&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Entertainment",Bigg Boss S15 24X7
+https://restream-bay.vercel.app/?id=219642&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Entertainment",Bigg Boss S16 24X7
+https://restream-bay.vercel.app/?id=207233&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Entertainment",Cid
+https://restream-bay.vercel.app/?id=340808&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Entertainment",Cid
+https://restream-bay.vercel.app/?id=340873&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="Entertainment",Cid
+https://restream-bay.vercel.app/?id=378909&e=.m3u8
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Entertainment",Color Cineplex Superhits
 https://restream-bay.vercel.app/?id=66199&e=.m3u8
 #EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Entertainment",Colors
@@ -339,6 +309,14 @@ https://restream-bay.vercel.app/?id=355571&e=.m3u8
 https://restream-bay.vercel.app/?id=66188&e=.m3u8
 #EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Entertainment",Colors [ ] FHD
 https://restream-bay.vercel.app/?id=66168&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="Entertainment",Crime Patrol 2.0 24X7
+https://restream-bay.vercel.app/?id=340876&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="Entertainment",Crime Patrol Dial100 24X7
+https://restream-bay.vercel.app/?id=340875&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="Entertainment",Crime Patrol Shatrak 24X7
+https://restream-bay.vercel.app/?id=340874&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="Entertainment",Crime Patrol Shatrak S2 24X7
+https://restream-bay.vercel.app/?id=345742&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Entertainment",DD National
 https://restream-bay.vercel.app/?id=112975&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg" group-title="Entertainment",Dabangg
@@ -349,8 +327,12 @@ https://restream-bay.vercel.app/?id=355655&e=.m3u8
 https://restream-bay.vercel.app/?id=356002&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Entertainment",Dhamaal Tv*
 https://restream-bay.vercel.app/?id=112978&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Horror Drama 24X7
+https://restream-bay.vercel.app/?id=368954&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",In
 https://restream-bay.vercel.app/?id=66161&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" group-title="Entertainment",Indian Idol S13 24X7
+https://restream-bay.vercel.app/?id=344483&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1g.fun/logos2/manoranjan_grand.jpg" group-title="Entertainment",Manoranjan Grand
 https://restream-bay.vercel.app/?id=355999&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Entertainment",Manoranjan TV
@@ -387,6 +369,10 @@ https://restream-bay.vercel.app/?id=66208&e=.m3u8
 https://restream-bay.vercel.app/?id=66166&e=.m3u8
 #EXTINF:-1 tvg-id="starutsav.in" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="Entertainment",Star Utsav
 https://restream-bay.vercel.app/?id=112977&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" group-title="Entertainment",Super Dancer Chapter4 24X7
+https://restream-bay.vercel.app/?id=344486&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="Entertainment",The Kapil Sharma Show 24X7
+https://restream-bay.vercel.app/?id=342075&e=.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Entertainment",Zee Action
 https://restream-bay.vercel.app/?id=66191&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="Entertainment",Zee Aflam
@@ -1887,54 +1873,68 @@ https://restream-bay.vercel.app/?id=246227&e=.m3u8
 https://restream-bay.vercel.app/?id=246228&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Regional Yonetv
 https://restream-bay.vercel.app/?id=246229&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Show Entertainment 24X7",Bigg Boss S15 24X7
-https://restream-bay.vercel.app/?id=219642&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="Show Entertainment 24X7",Bigg Boss S16 24X7
-https://restream-bay.vercel.app/?id=207233&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Show Entertainment 24X7",Cid
-https://restream-bay.vercel.app/?id=340808&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Show Entertainment 24X7",Cid
-https://restream-bay.vercel.app/?id=340873&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="Show Entertainment 24X7",Cid
-https://restream-bay.vercel.app/?id=378909&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="Show Entertainment 24X7",Crime Patrol 2.0 24X7
-https://restream-bay.vercel.app/?id=340876&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="Show Entertainment 24X7",Crime Patrol Dial100 24X7
-https://restream-bay.vercel.app/?id=340875&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="Show Entertainment 24X7",Crime Patrol Shatrak 24X7
-https://restream-bay.vercel.app/?id=340874&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="Show Entertainment 24X7",Crime Patrol Shatrak S2 24X7
-https://restream-bay.vercel.app/?id=345742&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Show Entertainment 24X7",Horror Drama 24X7
-https://restream-bay.vercel.app/?id=368954&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" group-title="Show Entertainment 24X7",Indian Idol S13 24X7
-https://restream-bay.vercel.app/?id=344483&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" group-title="Show Entertainment 24X7",Super Dancer Chapter4 24X7
-https://restream-bay.vercel.app/?id=344486&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="Show Entertainment 24X7",The Kapil Sharma Show 24X7
-https://restream-bay.vercel.app/?id=342075&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",1Sports
+https://restream-bay.vercel.app/?id=167586&e=.m3u8
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports",Astro Cricket HD
+https://restream-bay.vercel.app/?id=167581&e=.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="Sports",DD Sports
+https://restream-bay.vercel.app/?id=167588&e=.m3u8
 #EXTINF:-1 tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="Sports",Europsport ( ) 4K
 https://restream-bay.vercel.app/?id=206324&e=.m3u8
+#EXTINF:-1 tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="Sports",Eurosport HD
+https://restream-bay.vercel.app/?id=167585&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="Sports",JIO Cricket
+https://restream-bay.vercel.app/?id=206297&e=.m3u8
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="Sports",Sony Six ( ) 4K
 https://restream-bay.vercel.app/?id=109992&e=.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="Sports",Sony Ten 1 ( ) 4K
 https://restream-bay.vercel.app/?id=109983&e=.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1 HD
+https://restream-bay.vercel.app/?id=167570&e=.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="Sports",Sony Ten 2 ( ) 4K
 https://restream-bay.vercel.app/?id=109984&e=.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",Sony Ten 2 HD
+https://restream-bay.vercel.app/?id=167571&e=.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="Sports",Sony Ten 3 ( ) 4K
 https://restream-bay.vercel.app/?id=109985&e=.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sports",Sony Ten 3 HD
+https://restream-bay.vercel.app/?id=167572&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="Sports",Sony Ten 4
+https://restream-bay.vercel.app/?id=167595&e=.m3u8
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Ten 5
+https://restream-bay.vercel.app/?id=167580&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="Sports",Sports 18 ( ) 4K
+https://restream-bay.vercel.app/?id=382205&e=.m3u8
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports",Star Sport 1 Hindi ( ) 4K
 https://restream-bay.vercel.app/?id=109986&e=.m3u8
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports",Star Sports 1 ( ) 4K
 https://restream-bay.vercel.app/?id=109987&e=.m3u8
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",Star Sports 1 HD
+https://restream-bay.vercel.app/?id=167575&e=.m3u8
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",Star Sports 1 Hindi
+https://restream-bay.vercel.app/?id=167573&e=.m3u8
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="" group-title="Sports",Star Sports 2 ( ) 4K
 https://restream-bay.vercel.app/?id=109988&e=.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Sports",Star Sports 2 HD
+https://restream-bay.vercel.app/?id=167576&e=.m3u8
+#EXTINF:-1 tvg-id="starsports3.in" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Sports",Star Sports 3 HD
+https://restream-bay.vercel.app/?id=167577&e=.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",Star Sports Select 1
+https://restream-bay.vercel.app/?id=167578&e=.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports",Star Sports Select 1 ( ) 4K
 https://restream-bay.vercel.app/?id=109993&e=.m3u8
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",Star Sports Select 2
+https://restream-bay.vercel.app/?id=167579&e=.m3u8
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Sports",Star Sports Select 2 ( ) 4K
 https://restream-bay.vercel.app/?id=109994&e=.m3u8
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",Star Sports Tamil 1
+https://restream-bay.vercel.app/?id=167574&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Unknown Channel
 https://restream-bay.vercel.app/?id=109982&e=.m3u8
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
+https://restream-bay.vercel.app/?id=167583&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="Sports",Willow Xtra
+https://restream-bay.vercel.app/?id=167582&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="Tamil",7S Music
 https://restream-bay.vercel.app/?id=380972&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil",Aastha Tamil
