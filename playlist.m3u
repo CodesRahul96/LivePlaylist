@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-10 07:46:34 UTC)
+#EXTM3U (Last Checked: 2026-04-10 08:51:54 UTC)
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Hollywood Blockbuster",Movies Indiana Jones 24/7
 https://restream-bay.vercel.app/?id=369820&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Pothwari Drama",Hindko Drama Vol 1
@@ -37,14 +37,14 @@ https://restream-bay.vercel.app/?id=109976&e=.m3u8
 https://restream-bay.vercel.app/?id=109977&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Bbc Ear ( ) 4K
 https://restream-bay.vercel.app/?id=109978&e=.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Max ( ) 4K
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony MAX ( ) 4K
 https://restream-bay.vercel.app/?id=109957&e=.m3u8
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Pix ( ) 4K
 https://restream-bay.vercel.app/?id=109966&e=.m3u8
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony SET ( ) 4K
+https://restream-bay.vercel.app/?id=109948&e=.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Sab ( ) 4K
 https://restream-bay.vercel.app/?id=109953&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Sony Set ( ) 4K
-https://restream-bay.vercel.app/?id=109948&e=.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Bharat ( ) 4K
 https://restream-bay.vercel.app/?id=109951&e=.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="4K Ultra Hd",Star Gold ( ) 4K
@@ -67,7 +67,7 @@ https://restream-bay.vercel.app/?id=109958&e=.m3u8
 https://restream-bay.vercel.app/?id=109950&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="Active",Axn HD
 https://restream-bay.vercel.app/?id=66313&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="Bangladesh",Abp Ananda
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="Bangladesh",ABP Ananda
 https://restream-bay.vercel.app/?id=245991&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" group-title="Bangladesh",BTV Ctg
 https://restream-bay.vercel.app/?id=245990&e=.m3u8
@@ -359,18 +359,18 @@ https://restream-bay.vercel.app/?id=104203&e=.m3u8
 https://restream-bay.vercel.app/?id=355809&e=.m3u8
 #EXTINF:-1 tvg-id="sonypal.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg" group-title="Entertainment",Sony Pal
 https://restream-bay.vercel.app/?id=104192&e=.m3u8
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony SET (Tataplay)
+https://restream-bay.vercel.app/?id=221251&e=.m3u8
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony SET HD
+https://restream-bay.vercel.app/?id=66164&e=.m3u8
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony SET [ ] FHD
+https://restream-bay.vercel.app/?id=66165&e=.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Entertainment",Sony Sab
 https://restream-bay.vercel.app/?id=221256&e=.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Entertainment",Sony Sab HD
 https://restream-bay.vercel.app/?id=66174&e=.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Entertainment",Sony Sab [ ] FHD
 https://restream-bay.vercel.app/?id=104194&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony Set (Tataplay)
-https://restream-bay.vercel.app/?id=221251&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony Set HD
-https://restream-bay.vercel.app/?id=66164&e=.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Entertainment",Sony Set [ ] FHD
-https://restream-bay.vercel.app/?id=66165&e=.m3u8
 #EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="Entertainment",Sony Wah
 https://restream-bay.vercel.app/?id=112979&e=.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Entertainment",Star Bharat
@@ -491,6 +491,464 @@ https://restream-bay.vercel.app/?id=381305&e=.m3u8
 https://restream-bay.vercel.app/?id=381271&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Gujarati",Unknown Channel
 https://restream-bay.vercel.app/?id=381262&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=263421&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268020&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268021&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268022&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268023&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268024&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268025&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268026&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268027&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268028&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268029&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268030&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268031&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268032&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268033&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268034&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268035&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268036&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268037&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268038&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268039&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268040&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268041&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268042&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268043&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268044&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268045&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268046&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268047&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268048&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268049&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268050&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268051&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268052&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268053&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268054&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268055&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268056&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=268057&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362990&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362991&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362992&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362993&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362994&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362995&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Hindi",Hollywood Hindi Dubbed 24/7
+https://restream-bay.vercel.app/?id=362996&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 01. ETV Live Event
+https://restream-bay.vercel.app/?id=350877&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 02. ETV Live Event 02
+https://restream-bay.vercel.app/?id=350878&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Angry Birds Toons
+https://restream-bay.vercel.app/?id=350879&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Babybus Indonesia
+https://restream-bay.vercel.app/?id=350880&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Donald Ducks
+https://restream-bay.vercel.app/?id=350881&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Doraemon
+https://restream-bay.vercel.app/?id=350882&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Just For Laughs
+https://restream-bay.vercel.app/?id=350883&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Mr Bean Cartoon
+https://restream-bay.vercel.app/?id=350884&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Mr. Bean Classic
+https://restream-bay.vercel.app/?id=350885&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Tom And Jerry
+https://restream-bay.vercel.app/?id=350886&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Upin Ipin
+https://restream-bay.vercel.app/?id=350887&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id 24/7 Warkop Dki
+https://restream-bay.vercel.app/?id=350888&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",Id Animal Planet
+https://restream-bay.vercel.app/?id=350889&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Indonesia",Id Animax
+https://restream-bay.vercel.app/?id=350890&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Indonesia",Id Aniplus
+https://restream-bay.vercel.app/?id=350891&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",Id Antv
+https://restream-bay.vercel.app/?id=350892&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="Indonesia",Id Arirang
+https://restream-bay.vercel.app/?id=350893&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",Id Asian Food Network
+https://restream-bay.vercel.app/?id=350894&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Indonesia",Id Axn
+https://restream-bay.vercel.app/?id=350895&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Indonesia",Id Baby TV
+https://restream-bay.vercel.app/?id=350896&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Indonesia",Id Bali TV
+https://restream-bay.vercel.app/?id=350897&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Indonesia",Id Bbc Earth
+https://restream-bay.vercel.app/?id=350898&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Bbc Lifestyle
+https://restream-bay.vercel.app/?id=350899&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Indonesia",Id Bein Sports 1
+https://restream-bay.vercel.app/?id=350900&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Indonesia",Id Bein Sports 3
+https://restream-bay.vercel.app/?id=350901&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="Indonesia",Id Berita Satu
+https://restream-bay.vercel.app/?id=350902&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="Indonesia",Id Berita Satu News
+https://restream-bay.vercel.app/?id=350903&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Indonesia",Id Berita Satu World
+https://restream-bay.vercel.app/?id=350904&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="Indonesia",Id Besmart
+https://restream-bay.vercel.app/?id=350905&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia",Id Bioskop Indonesia
+https://restream-bay.vercel.app/?id=350906&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Indonesia",Id Bloomberg TV
+https://restream-bay.vercel.app/?id=350907&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Indonesia",Id Boomerang
+https://restream-bay.vercel.app/?id=350908&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="Indonesia",Id Boomerang En
+https://restream-bay.vercel.app/?id=350909&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="Indonesia",Id CNBC Indonesia
+https://restream-bay.vercel.app/?id=350927&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="Indonesia",Id Cartoon Network
+https://restream-bay.vercel.app/?id=350910&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Indonesia",Id Cbeebies
+https://restream-bay.vercel.app/?id=350911&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Indonesia",Id Ccm
+https://restream-bay.vercel.app/?id=350912&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Indonesia",Id Celestial Movies
+https://restream-bay.vercel.app/?id=350913&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="Indonesia",Id Cgtn
+https://restream-bay.vercel.app/?id=350914&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="Indonesia",Id Cgtn Documentary
+https://restream-bay.vercel.app/?id=350915&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="Indonesia",Id Champion TV 1
+https://restream-bay.vercel.app/?id=350916&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="Indonesia",Id Champion TV 2
+https://restream-bay.vercel.app/?id=350917&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="Indonesia",Id Champion TV 3
+https://restream-bay.vercel.app/?id=350918&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="Indonesia",Id Channel News Asia
+https://restream-bay.vercel.app/?id=350919&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Indonesia",Id Cinemaworld
+https://restream-bay.vercel.app/?id=350921&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",Id Cinemax
+https://restream-bay.vercel.app/?id=350922&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Indonesia",Id Citra Bioskop
+https://restream-bay.vercel.app/?id=350923&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="Indonesia",Id Citra Dangdut
+https://restream-bay.vercel.app/?id=350924&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Indonesia",Id Citra Drama
+https://restream-bay.vercel.app/?id=350925&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="Indonesia",Id Citra Entertainment
+https://restream-bay.vercel.app/?id=350926&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="Indonesia",Id Cnn Indonesia
+https://restream-bay.vercel.app/?id=350928&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="Indonesia",Id Cnn International
+https://restream-bay.vercel.app/?id=350929&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg" group-title="Indonesia",Id Crime+ Investigation
+https://restream-bay.vercel.app/?id=350930&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="Indonesia",Id Da Ai TV
+https://restream-bay.vercel.app/?id=350931&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="Indonesia",Id Discovery Asia
+https://restream-bay.vercel.app/?id=350932&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="Indonesia",Id Discovery World
+https://restream-bay.vercel.app/?id=350933&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Indonesia",Id Disney Junior
+https://restream-bay.vercel.app/?id=350934&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="Indonesia",Id Disney Xd
+https://restream-bay.vercel.app/?id=350935&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="Indonesia",Id Dreamworks
+https://restream-bay.vercel.app/?id=350936&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Indonesia",Id Dunia Anak
+https://restream-bay.vercel.app/?id=350937&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="Indonesia",Id Dunia Lain
+https://restream-bay.vercel.app/?id=350938&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id ETV Bioskop
+https://restream-bay.vercel.app/?id=350941&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id ETV Bioskop 02
+https://restream-bay.vercel.app/?id=350942&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id ETV Bioskop 03
+https://restream-bay.vercel.app/?id=350943&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id ETV Bioskop 04
+https://restream-bay.vercel.app/?id=350944&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="Indonesia",Id Eat&Go
+https://restream-bay.vercel.app/?id=350939&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Indonesia",Id Ent
+https://restream-bay.vercel.app/?id=350940&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="Indonesia",Id Fashion TV
+https://restream-bay.vercel.app/?id=350945&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Indonesia",Id Fight Sport
+https://restream-bay.vercel.app/?id=350946&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Flik
+https://restream-bay.vercel.app/?id=350947&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="Indonesia",Id Fmn
+https://restream-bay.vercel.app/?id=350948&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bb07886b4c8a97d8138b57601ce3f4f.png" group-title="Indonesia",Id Fox Crime
+https://restream-bay.vercel.app/?id=350949&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Indonesia",Id Galaxy
+https://restream-bay.vercel.app/?id=350950&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Indonesia",Id Galaxy Premium
+https://restream-bay.vercel.app/?id=350951&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="Indonesia",Id Gem
+https://restream-bay.vercel.app/?id=350952&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Golf
+https://restream-bay.vercel.app/?id=350953&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Indonesia",Id Gtv
+https://restream-bay.vercel.app/?id=350954&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",Id Hbo
+https://restream-bay.vercel.app/?id=350955&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",Id Hbo Family
+https://restream-bay.vercel.app/?id=350956&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",Id Hbo Hits
+https://restream-bay.vercel.app/?id=350957&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",Id Hbo Signature
+https://restream-bay.vercel.app/?id=350958&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="Indonesia",Id Hgtv
+https://restream-bay.vercel.app/?id=350959&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="Indonesia",Id Hip Hip Horee!
+https://restream-bay.vercel.app/?id=350960&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Indonesia",Id History
+https://restream-bay.vercel.app/?id=350961&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Indonesia",Id Hits
+https://restream-bay.vercel.app/?id=350962&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Indonesia",Id Hits Movies
+https://restream-bay.vercel.app/?id=350963&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="Indonesia",Id Horee!
+https://restream-bay.vercel.app/?id=350964&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="Indonesia",Id Hunan TV
+https://restream-bay.vercel.app/?id=350965&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="Indonesia",Id I Am Channel
+https://restream-bay.vercel.app/?id=350966&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id I Konser
+https://restream-bay.vercel.app/?id=350967&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="Indonesia",Id Idx
+https://restream-bay.vercel.app/?id=350968&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="Indonesia",Id Ie
+https://restream-bay.vercel.app/?id=350969&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="Indonesia",Id Imc
+https://restream-bay.vercel.app/?id=350970&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Indi Kids
+https://restream-bay.vercel.app/?id=350971&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",Id Indosiar
+https://restream-bay.vercel.app/?id=350972&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",Id Inews
+https://restream-bay.vercel.app/?id=350973&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Infotainment
+https://restream-bay.vercel.app/?id=350974&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Indonesia",Id Insert
+https://restream-bay.vercel.app/?id=350975&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="Indonesia",Id Izzah TV
+https://restream-bay.vercel.app/?id=350976&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Indonesia",Id Jak TV
+https://restream-bay.vercel.app/?id=350977&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="Indonesia",Id Jakarta Globe News
+https://restream-bay.vercel.app/?id=350978&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="Indonesia",Id Jtv
+https://restream-bay.vercel.app/?id=350979&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Indonesia",Id K+
+https://restream-bay.vercel.app/?id=350980&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="Indonesia",Id Kbs World
+https://restream-bay.vercel.app/?id=350981&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Indonesia",Id Kids TV
+https://restream-bay.vercel.app/?id=350982&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="Indonesia",Id Kix
+https://restream-bay.vercel.app/?id=350983&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="Indonesia",Id Kompas TV
+https://restream-bay.vercel.app/?id=350984&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="Indonesia",Id Life
+https://restream-bay.vercel.app/?id=350985&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="Indonesia",Id Lifestyle & Fashion
+https://restream-bay.vercel.app/?id=350986&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="Indonesia",Id Lifetime
+https://restream-bay.vercel.app/?id=350987&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="Indonesia",Id Love Nature
+https://restream-bay.vercel.app/?id=350988&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Indonesia",Id Mentari TV
+https://restream-bay.vercel.app/?id=350989&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="Indonesia",Id Metro TV
+https://restream-bay.vercel.app/?id=350990&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="Indonesia",Id Miao Mi
+https://restream-bay.vercel.app/?id=350991&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="Indonesia",Id Mnc News
+https://restream-bay.vercel.app/?id=350992&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="Indonesia",Id Mnc Sports
+https://restream-bay.vercel.app/?id=350993&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="Indonesia",Id Mnc Sports 2
+https://restream-bay.vercel.app/?id=350994&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="Indonesia",Id Mnc Sports 3
+https://restream-bay.vercel.app/?id=350995&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Indonesia",Id Mnc TV
+https://restream-bay.vercel.app/?id=350996&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="Indonesia",Id Moji
+https://restream-bay.vercel.app/?id=350997&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Mqtv
+https://restream-bay.vercel.app/?id=350998&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a902cc12d2d0916c946176086b5df2c.png" group-title="Indonesia",Id Mta 2 Asia
+https://restream-bay.vercel.app/?id=350999&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/42ef54fc21a8cac61f49d1290965ce7b.png" group-title="Indonesia",Id Mta 3
+https://restream-bay.vercel.app/?id=351000&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="Indonesia",Id Mta TV
+https://restream-bay.vercel.app/?id=351001&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Indonesia",Id Music TV
+https://restream-bay.vercel.app/?id=351002&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Indonesia",Id My Cinema
+https://restream-bay.vercel.app/?id=351003&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Indonesia",Id My Cinema Asia
+https://restream-bay.vercel.app/?id=351004&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="Indonesia",Id My Family
+https://restream-bay.vercel.app/?id=351005&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Indonesia",Id My Kidz
+https://restream-bay.vercel.app/?id=351006&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Indonesia",Id Nat Geo
+https://restream-bay.vercel.app/?id=351007&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Indonesia",Id Nat Geo Wild
+https://restream-bay.vercel.app/?id=351008&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",Id Net
+https://restream-bay.vercel.app/?id=351010&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="Indonesia",Id Nhk World
+https://restream-bay.vercel.app/?id=351011&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="Indonesia",Id Nick Jr
+https://restream-bay.vercel.app/?id=351012&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="Indonesia",Id Nick Jr En
+https://restream-bay.vercel.app/?id=351013&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Indonesia",Id Nickelodeon
+https://restream-bay.vercel.app/?id=351014&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="Indonesia",Id Nusantara TV
+https://restream-bay.vercel.app/?id=351015&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="Indonesia",Id Ok TV
+https://restream-bay.vercel.app/?id=351016&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id One
+https://restream-bay.vercel.app/?id=351017&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="Indonesia",Id Padang TV
+https://restream-bay.vercel.app/?id=351018&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="Indonesia",Id Paramount Network
+https://restream-bay.vercel.app/?id=351019&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Indonesia",Id Prambors
+https://restream-bay.vercel.app/?id=351020&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia",Id Rajawali TV
+https://restream-bay.vercel.app/?id=351021&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/3e57586b1522d66dab2defcfc42b7bdc.png" group-title="Indonesia",Id Rb TV
+https://restream-bay.vercel.app/?id=351022&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Indonesia",Id Rcti
+https://restream-bay.vercel.app/?id=351023&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="Indonesia",Id Reformed 21
+https://restream-bay.vercel.app/?id=351024&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="Indonesia",Id Rock Action
+https://restream-bay.vercel.app/?id=351025&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Indonesia",Id Rock Entertaiment
+https://restream-bay.vercel.app/?id=351026&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Rock Extreme
+https://restream-bay.vercel.app/?id=351027&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="Indonesia",Id Rodja TV
+https://restream-bay.vercel.app/?id=351028&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="Indonesia",Id Rri Net
+https://restream-bay.vercel.app/?id=351029&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",Id Sctv
+https://restream-bay.vercel.app/?id=351030&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="Indonesia",Id Sea Today
+https://restream-bay.vercel.app/?id=351031&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="Indonesia",Id Smithsonian Channel
+https://restream-bay.vercel.app/?id=351032&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Indonesia",Id Sony One
+https://restream-bay.vercel.app/?id=351033&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Indonesia",Id Spotv
+https://restream-bay.vercel.app/?id=351034&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Indonesia",Id Spotv 2
+https://restream-bay.vercel.app/?id=351035&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",Id TV 9 Nusantara
+https://restream-bay.vercel.app/?id=351042&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="Indonesia",Id TV Mu
+https://restream-bay.vercel.app/?id=351043&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",Id TV One
+https://restream-bay.vercel.app/?id=351044&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="Indonesia",Id Tech Storm
+https://restream-bay.vercel.app/?id=351036&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="Indonesia",Id Tegar TV Lampung
+https://restream-bay.vercel.app/?id=351037&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Indonesia",Id Thrill
+https://restream-bay.vercel.app/?id=351038&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Indonesia",Id Tlc
+https://restream-bay.vercel.app/?id=351039&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",Id Trans 7
+https://restream-bay.vercel.app/?id=351040&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",Id Trans TV
+https://restream-bay.vercel.app/?id=351041&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="Indonesia",Id Tvn
+https://restream-bay.vercel.app/?id=351045&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Indonesia",Id Tvn Movies
+https://restream-bay.vercel.app/?id=351046&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Indonesia",Id Tvri
+https://restream-bay.vercel.app/?id=351047&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0192fca1abdd2175b5aff860adfd63e.png" group-title="Indonesia",Id Tvri Gorontalo
+https://restream-bay.vercel.app/?id=351048&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="Indonesia",Id Tvri Jambi
+https://restream-bay.vercel.app/?id=351049&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="Indonesia",Id Tvri Jawa Barat
+https://restream-bay.vercel.app/?id=351050&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="Indonesia",Id Tvri Kalimantan Barat
+https://restream-bay.vercel.app/?id=351051&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Indonesia",Id Tvri Sport
+https://restream-bay.vercel.app/?id=351052&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="Indonesia",Id Tvri Sulawesi Selatan
+https://restream-bay.vercel.app/?id=351053&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="Indonesia",Id U Channel
+https://restream-bay.vercel.app/?id=351054&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Indonesia",Id Usee Prime
+https://restream-bay.vercel.app/?id=351055&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Usee Sport 1
+https://restream-bay.vercel.app/?id=351056&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Id Usee Sport 2
+https://restream-bay.vercel.app/?id=351057&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="Indonesia",Id Vision Prime
+https://restream-bay.vercel.app/?id=351058&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Indonesia",Id Warner TV
+https://restream-bay.vercel.app/?id=351059&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Indonesia",Id Zee Bioskop
+https://restream-bay.vercel.app/?id=351060&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="Indonesia",Id Zoomoo
+https://restream-bay.vercel.app/?id=351061&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kannada",Aastha Kannada
 https://restream-bay.vercel.app/?id=381242&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Suvarna-News.png" group-title="Kannada",Asianet Suvarna News
@@ -761,7 +1219,7 @@ https://restream-bay.vercel.app/?id=380873&e=.m3u8
 https://restream-bay.vercel.app/?id=380870&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/9X-Jhakaas.png" group-title="Marathi",9X Jhakaas
 https://restream-bay.vercel.app/?id=380854&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="Marathi",Abp Majha
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="Marathi",ABP Majha
 https://restream-bay.vercel.app/?id=380819&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Saam-TV.png" group-title="Marathi",C News
 https://restream-bay.vercel.app/?id=380852&e=.m3u8
@@ -829,134 +1287,6 @@ https://restream-bay.vercel.app/?id=221260&e=.m3u8
 https://restream-bay.vercel.app/?id=66181&e=.m3u8
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",& Pictures [ ] FHD
 https://restream-bay.vercel.app/?id=66183&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",01 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=263421&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",01 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=253596&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",02 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268020&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",02 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=253597&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",03 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268021&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",03 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=253598&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",04 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268022&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",04 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263386&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",05 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268023&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",05 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263387&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",06 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268024&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",06 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263388&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",07 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268025&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",07 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263389&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",08 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268026&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",08 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263390&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",09 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268027&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",09 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263391&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",10 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268028&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",10 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263392&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",11 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268029&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",11 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263393&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",12 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268030&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",12 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263394&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",13 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268031&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",13 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263395&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",14 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268032&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",14 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=263396&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",15 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268033&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",15 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=362986&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",16 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268034&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",16 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=362987&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",17 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268035&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",17 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=362988&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",18 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268036&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",18 Tollywood Movies 24/7
-https://restream-bay.vercel.app/?id=362989&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",19 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268037&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",20 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268038&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",21 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268039&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",22 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268040&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",23 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268041&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",24 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268042&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",25 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268043&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",26 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268044&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",27 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268045&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",28 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268046&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",29 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268047&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",30 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268048&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",31 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268049&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",32 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268050&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",33 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268051&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",34 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268052&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",35 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268053&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",36 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268054&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",37 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268055&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",38 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268056&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",39 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=268057&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",40 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362990&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",41 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362991&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",42 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362992&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",43 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362993&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",44 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362994&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",45 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362995&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="Movies",46 Hollywood Hindi Dubbed 24/7
-https://restream-bay.vercel.app/?id=362996&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1g.fun/logos2/abzy_movies.jpg" group-title="Movies",Abzy Movies
 https://restream-bay.vercel.app/?id=104200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",B4U Movies
@@ -993,13 +1323,13 @@ https://restream-bay.vercel.app/?id=112984&e=.m3u8
 https://restream-bay.vercel.app/?id=206276&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="Movies",Oscar Movies
 https://restream-bay.vercel.app/?id=66185&e=.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies",Sony Max (Tataplay)
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies",Sony MAX (Tataplay)
 https://restream-bay.vercel.app/?id=221259&e=.m3u8
-#EXTINF:-1 tvg-id="sonymax.uk" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies",Sony Max 2
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies",Sony MAX 2
 https://restream-bay.vercel.app/?id=66189&e=.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies",Sony Max HD
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies",Sony MAX HD
 https://restream-bay.vercel.app/?id=66179&e=.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies",Sony Max [ ] FHD
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies",Sony MAX [ ] FHD
 https://restream-bay.vercel.app/?id=66180&e=.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Movies",Star Gold (Tatasky) HD
 https://restream-bay.vercel.app/?id=112982&e=.m3u8
@@ -1019,6 +1349,42 @@ https://restream-bay.vercel.app/?id=221258&e=.m3u8
 https://restream-bay.vercel.app/?id=66178&e=.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" group-title="Movies",Star Utsav Movies
 https://restream-bay.vercel.app/?id=112971&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=253596&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=253597&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=253598&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263386&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263387&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263388&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263389&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263390&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263391&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263392&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263393&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263394&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263395&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=263396&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=362986&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=362987&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=362988&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="Movies",Tollywood Movies 24/7
+https://restream-bay.vercel.app/?id=362989&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="Movies",Wow Cinema One
 https://restream-bay.vercel.app/?id=106132&e=.m3u8
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Movies",Zee Anmol Cinema
@@ -1045,14 +1411,14 @@ https://restream-bay.vercel.app/?id=66203&e=.m3u8
 https://restream-bay.vercel.app/?id=219495&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Boogle Bollywood
 https://restream-bay.vercel.app/?id=206045&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="Music",MTV + HD
+https://restream-bay.vercel.app/?id=206049&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Music",MTV Beat
+https://restream-bay.vercel.app/?id=66273&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV India
+https://restream-bay.vercel.app/?id=206054&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Mastii
 https://restream-bay.vercel.app/?id=112988&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="Music",Mtv + HD
-https://restream-bay.vercel.app/?id=206049&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Music",Mtv Beat
-https://restream-bay.vercel.app/?id=66273&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",Mtv India
-https://restream-bay.vercel.app/?id=206054&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",Music 01
 https://restream-bay.vercel.app/?id=219498&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="Music",Music 02
@@ -1097,10 +1463,10 @@ https://restream-bay.vercel.app/?id=362867&e=.m3u8
 https://restream-bay.vercel.app/?id=362868&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Music India
 https://restream-bay.vercel.app/?id=190028&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="Music",PTC Music
+https://restream-bay.vercel.app/?id=153373&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Pittara TV
 https://restream-bay.vercel.app/?id=66285&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="Music",Ptc Music
-https://restream-bay.vercel.app/?id=153373&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Showbox Music
 https://restream-bay.vercel.app/?id=383529&e=.m3u8
 #EXTINF:-1 tvg-id="housefullmovies.in" tvg-logo="" group-title="Music",Utv Bindass
@@ -1113,16 +1479,14 @@ https://restream-bay.vercel.app/?id=383530&e=.m3u8
 https://restream-bay.vercel.app/?id=219497&e=.m3u8
 #EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="Music",Zoom TV
 https://restream-bay.vercel.app/?id=66190&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/48/Pacers_de_l%27Indiana_2017.png" group-title="Nba Team (Live Events)",Nba Team Indiana Pacers
-https://restream-bay.vercel.app/?id=356209&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/A1-TV.png" group-title="News",A1 TV Rajasthan
 https://restream-bay.vercel.app/?id=244848&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",ABP News
+https://restream-bay.vercel.app/?id=244798&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png" group-title="News",Aaj Tak HD
 https://restream-bay.vercel.app/?id=244915&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Ab Star News
 https://restream-bay.vercel.app/?id=244829&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Abp News
-https://restream-bay.vercel.app/?id=244798&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Apn News
 https://restream-bay.vercel.app/?id=244852&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ND24.png" group-title="News",Assamese News 18 Assam
@@ -1137,7 +1501,7 @@ https://restream-bay.vercel.app/?id=244835&e=.m3u8
 https://restream-bay.vercel.app/?id=244849&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/C-News-Bharat.png" group-title="News",C News Bharat
 https://restream-bay.vercel.app/?id=244831&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-TV18.png" group-title="News",Cnbc Tv18
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNBC-TV18.png" group-title="News",CNBC Tv18
 https://restream-bay.vercel.app/?id=355645&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CNN-News18.png" group-title="News",Cnn News 18 FHD
 https://restream-bay.vercel.app/?id=244862&e=.m3u8
@@ -1175,11 +1539,11 @@ https://restream-bay.vercel.app/?id=244855&e=.m3u8
 https://restream-bay.vercel.app/?id=244854&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kashish-News.png" group-title="News",Kashish News
 https://restream-bay.vercel.app/?id=244856&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Ndtv Good Times
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NDTV Good Times
 https://restream-bay.vercel.app/?id=244918&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Ndtv India
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NDTV India
 https://restream-bay.vercel.app/?id=244917&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV-Profit-Prime.png" group-title="News",Ndtv Profit
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NDTV-Profit-Prime.png" group-title="News",NDTV Profit
 https://restream-bay.vercel.app/?id=244916&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-1.png" group-title="News",News 1 India
 https://restream-bay.vercel.app/?id=244853&e=.m3u8
@@ -1229,374 +1593,6 @@ https://restream-bay.vercel.app/?id=244801&e=.m3u8
 https://restream-bay.vercel.app/?id=244803&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee Rajasthan News
 https://restream-bay.vercel.app/?id=244802&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 01. ETV Live Event
-https://restream-bay.vercel.app/?id=350877&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 02. ETV Live Event 02
-https://restream-bay.vercel.app/?id=350878&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Angry Birds Toons
-https://restream-bay.vercel.app/?id=350879&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Babybus Indonesia
-https://restream-bay.vercel.app/?id=350880&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Donald Ducks
-https://restream-bay.vercel.app/?id=350881&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Doraemon
-https://restream-bay.vercel.app/?id=350882&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Just For Laughs
-https://restream-bay.vercel.app/?id=350883&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Mr Bean Cartoon
-https://restream-bay.vercel.app/?id=350884&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Mr. Bean Classic
-https://restream-bay.vercel.app/?id=350885&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Tom And Jerry
-https://restream-bay.vercel.app/?id=350886&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Upin Ipin
-https://restream-bay.vercel.app/?id=350887&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id 24/7 Warkop Dki
-https://restream-bay.vercel.app/?id=350888&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Onesia",Id Animal Planet
-https://restream-bay.vercel.app/?id=350889&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Onesia",Id Animax
-https://restream-bay.vercel.app/?id=350890&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Onesia",Id Aniplus
-https://restream-bay.vercel.app/?id=350891&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Onesia",Id Antv
-https://restream-bay.vercel.app/?id=350892&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="Onesia",Id Arirang
-https://restream-bay.vercel.app/?id=350893&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Onesia",Id Asian Food Network
-https://restream-bay.vercel.app/?id=350894&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Onesia",Id Axn
-https://restream-bay.vercel.app/?id=350895&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Onesia",Id Baby TV
-https://restream-bay.vercel.app/?id=350896&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Onesia",Id Bali TV
-https://restream-bay.vercel.app/?id=350897&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Onesia",Id Bbc Earth
-https://restream-bay.vercel.app/?id=350898&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Bbc Lifestyle
-https://restream-bay.vercel.app/?id=350899&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Onesia",Id Bein Sports 1
-https://restream-bay.vercel.app/?id=350900&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Onesia",Id Bein Sports 3
-https://restream-bay.vercel.app/?id=350901&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="Onesia",Id Berita Satu
-https://restream-bay.vercel.app/?id=350902&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="Onesia",Id Berita Satu News
-https://restream-bay.vercel.app/?id=350903&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Onesia",Id Berita Satu World
-https://restream-bay.vercel.app/?id=350904&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="Onesia",Id Besmart
-https://restream-bay.vercel.app/?id=350905&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Onesia",Id Bioskop Indonesia
-https://restream-bay.vercel.app/?id=350906&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Onesia",Id Bloomberg TV
-https://restream-bay.vercel.app/?id=350907&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Onesia",Id Boomerang
-https://restream-bay.vercel.app/?id=350908&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="Onesia",Id Boomerang En
-https://restream-bay.vercel.app/?id=350909&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="Onesia",Id Cartoon Network
-https://restream-bay.vercel.app/?id=350910&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Onesia",Id Cbeebies
-https://restream-bay.vercel.app/?id=350911&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Onesia",Id Ccm
-https://restream-bay.vercel.app/?id=350912&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Onesia",Id Celestial Movies
-https://restream-bay.vercel.app/?id=350913&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="Onesia",Id Cgtn
-https://restream-bay.vercel.app/?id=350914&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="Onesia",Id Cgtn Documentary
-https://restream-bay.vercel.app/?id=350915&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="Onesia",Id Champion TV 1
-https://restream-bay.vercel.app/?id=350916&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="Onesia",Id Champion TV 2
-https://restream-bay.vercel.app/?id=350917&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="Onesia",Id Champion TV 3
-https://restream-bay.vercel.app/?id=350918&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="Onesia",Id Channel News Asia
-https://restream-bay.vercel.app/?id=350919&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Onesia",Id Cinemaworld
-https://restream-bay.vercel.app/?id=350921&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Onesia",Id Cinemax
-https://restream-bay.vercel.app/?id=350922&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Onesia",Id Citra Bioskop
-https://restream-bay.vercel.app/?id=350923&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="Onesia",Id Citra Dangdut
-https://restream-bay.vercel.app/?id=350924&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Onesia",Id Citra Drama
-https://restream-bay.vercel.app/?id=350925&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="Onesia",Id Citra Entertainment
-https://restream-bay.vercel.app/?id=350926&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="Onesia",Id Cnbc Indonesia
-https://restream-bay.vercel.app/?id=350927&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="Onesia",Id Cnn Indonesia
-https://restream-bay.vercel.app/?id=350928&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="Onesia",Id Cnn International
-https://restream-bay.vercel.app/?id=350929&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg" group-title="Onesia",Id Crime+ Investigation
-https://restream-bay.vercel.app/?id=350930&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="Onesia",Id Da Ai TV
-https://restream-bay.vercel.app/?id=350931&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="Onesia",Id Discovery Asia
-https://restream-bay.vercel.app/?id=350932&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="Onesia",Id Discovery World
-https://restream-bay.vercel.app/?id=350933&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Onesia",Id Disney Junior
-https://restream-bay.vercel.app/?id=350934&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="Onesia",Id Disney Xd
-https://restream-bay.vercel.app/?id=350935&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="Onesia",Id Dreamworks
-https://restream-bay.vercel.app/?id=350936&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Onesia",Id Dunia Anak
-https://restream-bay.vercel.app/?id=350937&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="Onesia",Id Dunia Lain
-https://restream-bay.vercel.app/?id=350938&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id ETV Bioskop
-https://restream-bay.vercel.app/?id=350941&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id ETV Bioskop 02
-https://restream-bay.vercel.app/?id=350942&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id ETV Bioskop 03
-https://restream-bay.vercel.app/?id=350943&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id ETV Bioskop 04
-https://restream-bay.vercel.app/?id=350944&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="Onesia",Id Eat&Go
-https://restream-bay.vercel.app/?id=350939&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Onesia",Id Ent
-https://restream-bay.vercel.app/?id=350940&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="Onesia",Id Fashion TV
-https://restream-bay.vercel.app/?id=350945&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Onesia",Id Fight Sport
-https://restream-bay.vercel.app/?id=350946&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Flik
-https://restream-bay.vercel.app/?id=350947&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="Onesia",Id Fmn
-https://restream-bay.vercel.app/?id=350948&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bb07886b4c8a97d8138b57601ce3f4f.png" group-title="Onesia",Id Fox Crime
-https://restream-bay.vercel.app/?id=350949&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Onesia",Id Galaxy
-https://restream-bay.vercel.app/?id=350950&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Onesia",Id Galaxy Premium
-https://restream-bay.vercel.app/?id=350951&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="Onesia",Id Gem
-https://restream-bay.vercel.app/?id=350952&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Golf
-https://restream-bay.vercel.app/?id=350953&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Onesia",Id Gtv
-https://restream-bay.vercel.app/?id=350954&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Onesia",Id Hbo
-https://restream-bay.vercel.app/?id=350955&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Onesia",Id Hbo Family
-https://restream-bay.vercel.app/?id=350956&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Onesia",Id Hbo Hits
-https://restream-bay.vercel.app/?id=350957&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Onesia",Id Hbo Signature
-https://restream-bay.vercel.app/?id=350958&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="Onesia",Id Hgtv
-https://restream-bay.vercel.app/?id=350959&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="Onesia",Id Hip Hip Horee!
-https://restream-bay.vercel.app/?id=350960&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Onesia",Id History
-https://restream-bay.vercel.app/?id=350961&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Onesia",Id Hits
-https://restream-bay.vercel.app/?id=350962&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Onesia",Id Hits Movies
-https://restream-bay.vercel.app/?id=350963&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="Onesia",Id Horee!
-https://restream-bay.vercel.app/?id=350964&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="Onesia",Id Hunan TV
-https://restream-bay.vercel.app/?id=350965&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="Onesia",Id I Am Channel
-https://restream-bay.vercel.app/?id=350966&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id I Konser
-https://restream-bay.vercel.app/?id=350967&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="Onesia",Id Idx
-https://restream-bay.vercel.app/?id=350968&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="Onesia",Id Ie
-https://restream-bay.vercel.app/?id=350969&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="Onesia",Id Imc
-https://restream-bay.vercel.app/?id=350970&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Indi Kids
-https://restream-bay.vercel.app/?id=350971&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Onesia",Id Indosiar
-https://restream-bay.vercel.app/?id=350972&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Onesia",Id Inews
-https://restream-bay.vercel.app/?id=350973&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Infotainment
-https://restream-bay.vercel.app/?id=350974&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Onesia",Id Insert
-https://restream-bay.vercel.app/?id=350975&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="Onesia",Id Izzah TV
-https://restream-bay.vercel.app/?id=350976&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Onesia",Id Jak TV
-https://restream-bay.vercel.app/?id=350977&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="Onesia",Id Jakarta Globe News
-https://restream-bay.vercel.app/?id=350978&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="Onesia",Id Jtv
-https://restream-bay.vercel.app/?id=350979&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Onesia",Id K+
-https://restream-bay.vercel.app/?id=350980&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="Onesia",Id Kbs World
-https://restream-bay.vercel.app/?id=350981&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Onesia",Id Kids TV
-https://restream-bay.vercel.app/?id=350982&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="Onesia",Id Kix
-https://restream-bay.vercel.app/?id=350983&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="Onesia",Id Kompas TV
-https://restream-bay.vercel.app/?id=350984&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="Onesia",Id Life
-https://restream-bay.vercel.app/?id=350985&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="Onesia",Id Lifestyle & Fashion
-https://restream-bay.vercel.app/?id=350986&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="Onesia",Id Lifetime
-https://restream-bay.vercel.app/?id=350987&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="Onesia",Id Love Nature
-https://restream-bay.vercel.app/?id=350988&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Onesia",Id Mentari TV
-https://restream-bay.vercel.app/?id=350989&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="Onesia",Id Metro TV
-https://restream-bay.vercel.app/?id=350990&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="Onesia",Id Miao Mi
-https://restream-bay.vercel.app/?id=350991&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="Onesia",Id Mnc News
-https://restream-bay.vercel.app/?id=350992&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="Onesia",Id Mnc Sports
-https://restream-bay.vercel.app/?id=350993&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="Onesia",Id Mnc Sports 2
-https://restream-bay.vercel.app/?id=350994&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="Onesia",Id Mnc Sports 3
-https://restream-bay.vercel.app/?id=350995&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Onesia",Id Mnc TV
-https://restream-bay.vercel.app/?id=350996&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="Onesia",Id Moji
-https://restream-bay.vercel.app/?id=350997&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Mqtv
-https://restream-bay.vercel.app/?id=350998&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a902cc12d2d0916c946176086b5df2c.png" group-title="Onesia",Id Mta 2 Asia
-https://restream-bay.vercel.app/?id=350999&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/42ef54fc21a8cac61f49d1290965ce7b.png" group-title="Onesia",Id Mta 3
-https://restream-bay.vercel.app/?id=351000&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="Onesia",Id Mta TV
-https://restream-bay.vercel.app/?id=351001&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Onesia",Id Music TV
-https://restream-bay.vercel.app/?id=351002&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Onesia",Id My Cinema
-https://restream-bay.vercel.app/?id=351003&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Onesia",Id My Cinema Asia
-https://restream-bay.vercel.app/?id=351004&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="Onesia",Id My Family
-https://restream-bay.vercel.app/?id=351005&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Onesia",Id My Kidz
-https://restream-bay.vercel.app/?id=351006&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Onesia",Id Nat Geo
-https://restream-bay.vercel.app/?id=351007&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Onesia",Id Nat Geo Wild
-https://restream-bay.vercel.app/?id=351008&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Onesia",Id Nba TV
-https://restream-bay.vercel.app/?id=351009&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Onesia",Id Net
-https://restream-bay.vercel.app/?id=351010&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="Onesia",Id Nhk World
-https://restream-bay.vercel.app/?id=351011&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="Onesia",Id Nick Jr
-https://restream-bay.vercel.app/?id=351012&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="Onesia",Id Nick Jr En
-https://restream-bay.vercel.app/?id=351013&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Onesia",Id Nickelodeon
-https://restream-bay.vercel.app/?id=351014&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="Onesia",Id Nusantara TV
-https://restream-bay.vercel.app/?id=351015&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="Onesia",Id Ok TV
-https://restream-bay.vercel.app/?id=351016&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id One
-https://restream-bay.vercel.app/?id=351017&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="Onesia",Id Padang TV
-https://restream-bay.vercel.app/?id=351018&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="Onesia",Id Paramount Network
-https://restream-bay.vercel.app/?id=351019&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Onesia",Id Prambors
-https://restream-bay.vercel.app/?id=351020&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Onesia",Id Rajawali TV
-https://restream-bay.vercel.app/?id=351021&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/3e57586b1522d66dab2defcfc42b7bdc.png" group-title="Onesia",Id Rb TV
-https://restream-bay.vercel.app/?id=351022&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Onesia",Id Rcti
-https://restream-bay.vercel.app/?id=351023&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="Onesia",Id Reformed 21
-https://restream-bay.vercel.app/?id=351024&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="Onesia",Id Rock Action
-https://restream-bay.vercel.app/?id=351025&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Onesia",Id Rock Entertaiment
-https://restream-bay.vercel.app/?id=351026&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Rock Extreme
-https://restream-bay.vercel.app/?id=351027&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="Onesia",Id Rodja TV
-https://restream-bay.vercel.app/?id=351028&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="Onesia",Id Rri Net
-https://restream-bay.vercel.app/?id=351029&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Onesia",Id Sctv
-https://restream-bay.vercel.app/?id=351030&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="Onesia",Id Sea Today
-https://restream-bay.vercel.app/?id=351031&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="Onesia",Id Smithsonian Channel
-https://restream-bay.vercel.app/?id=351032&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Onesia",Id Sony One
-https://restream-bay.vercel.app/?id=351033&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Onesia",Id Spotv
-https://restream-bay.vercel.app/?id=351034&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Onesia",Id Spotv 2
-https://restream-bay.vercel.app/?id=351035&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Onesia",Id TV 9 Nusantara
-https://restream-bay.vercel.app/?id=351042&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="Onesia",Id TV Mu
-https://restream-bay.vercel.app/?id=351043&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Onesia",Id TV One
-https://restream-bay.vercel.app/?id=351044&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="Onesia",Id Tech Storm
-https://restream-bay.vercel.app/?id=351036&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="Onesia",Id Tegar TV Lampung
-https://restream-bay.vercel.app/?id=351037&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Onesia",Id Thrill
-https://restream-bay.vercel.app/?id=351038&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Onesia",Id Tlc
-https://restream-bay.vercel.app/?id=351039&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Onesia",Id Trans 7
-https://restream-bay.vercel.app/?id=351040&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Onesia",Id Trans TV
-https://restream-bay.vercel.app/?id=351041&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="Onesia",Id Tvn
-https://restream-bay.vercel.app/?id=351045&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Onesia",Id Tvn Movies
-https://restream-bay.vercel.app/?id=351046&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Onesia",Id Tvri
-https://restream-bay.vercel.app/?id=351047&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0192fca1abdd2175b5aff860adfd63e.png" group-title="Onesia",Id Tvri Gorontalo
-https://restream-bay.vercel.app/?id=351048&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="Onesia",Id Tvri Jambi
-https://restream-bay.vercel.app/?id=351049&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="Onesia",Id Tvri Jawa Barat
-https://restream-bay.vercel.app/?id=351050&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="Onesia",Id Tvri Kalimantan Barat
-https://restream-bay.vercel.app/?id=351051&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Onesia",Id Tvri Sport
-https://restream-bay.vercel.app/?id=351052&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="Onesia",Id Tvri Sulawesi Selatan
-https://restream-bay.vercel.app/?id=351053&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="Onesia",Id U Channel
-https://restream-bay.vercel.app/?id=351054&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Onesia",Id Usee Prime
-https://restream-bay.vercel.app/?id=351055&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Usee Sport 1
-https://restream-bay.vercel.app/?id=351056&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Onesia",Id Usee Sport 2
-https://restream-bay.vercel.app/?id=351057&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="Onesia",Id Vision Prime
-https://restream-bay.vercel.app/?id=351058&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Onesia",Id Warner TV
-https://restream-bay.vercel.app/?id=351059&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Onesia",Id Zee Bioskop
-https://restream-bay.vercel.app/?id=351060&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="Onesia",Id Zoomoo
-https://restream-bay.vercel.app/?id=351061&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Oriya",In Odia
 https://restream-bay.vercel.app/?id=381244&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Sarthak.png" group-title="Oriya",In Odia
@@ -1635,16 +1631,6 @@ https://restream-bay.vercel.app/?id=381261&e=.m3u8
 https://restream-bay.vercel.app/?id=381245&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Oriya",Unknown Channel
 https://restream-bay.vercel.app/?id=381243&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",01 Punjabi Movies 24/7
-https://restream-bay.vercel.app/?id=251969&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",02 Punjabi Movies 24/7
-https://restream-bay.vercel.app/?id=251970&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",03 Punjabi Movies 24/7
-https://restream-bay.vercel.app/?id=252502&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",04 Punjabi Movies 24/7
-https://restream-bay.vercel.app/?id=252504&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",05 Punjabi Movies 24/7
-https://restream-bay.vercel.app/?id=341325&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",7X Music HD
 https://restream-bay.vercel.app/?id=244393&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Balle Balle
@@ -1699,9 +1685,33 @@ https://restream-bay.vercel.app/?id=244395&e=.m3u8
 https://restream-bay.vercel.app/?id=244413&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Only Music
 https://restream-bay.vercel.app/?id=244389&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Chak De
+https://restream-bay.vercel.app/?id=244368&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Dhol
+https://restream-bay.vercel.app/?id=244381&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Dhol TV ( Sling )
+https://restream-bay.vercel.app/?id=244411&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Gold
+https://restream-bay.vercel.app/?id=244366&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Music
+https://restream-bay.vercel.app/?id=244382&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC News
+https://restream-bay.vercel.app/?id=244370&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC News (Sling)
+https://restream-bay.vercel.app/?id=244392&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Punjabi ( Sling )
+https://restream-bay.vercel.app/?id=244408&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Punjabi Gold
+https://restream-bay.vercel.app/?id=355565&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Punjabi Gold ( Sling )
+https://restream-bay.vercel.app/?id=244410&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Simran
+https://restream-bay.vercel.app/?id=244379&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",PTC Simran ( Sling )
+https://restream-bay.vercel.app/?id=244409&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Parvasi TV
 https://restream-bay.vercel.app/?id=244403&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Punjabi",Pb Ptc Punjabi
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Punjabi",Pb PTC Punjabi
 https://restream-bay.vercel.app/?id=244362&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Pbn Music
 https://restream-bay.vercel.app/?id=244404&e=.m3u8
@@ -1709,36 +1719,22 @@ https://restream-bay.vercel.app/?id=244404&e=.m3u8
 https://restream-bay.vercel.app/?id=244371&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Pop Pataka HD
 https://restream-bay.vercel.app/?id=244363&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Chak De
-https://restream-bay.vercel.app/?id=244368&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Dhol
-https://restream-bay.vercel.app/?id=244381&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Dhol TV ( Sling )
-https://restream-bay.vercel.app/?id=244411&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Gold
-https://restream-bay.vercel.app/?id=244366&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Music
-https://restream-bay.vercel.app/?id=244382&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc News
-https://restream-bay.vercel.app/?id=244370&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc News (Sling)
-https://restream-bay.vercel.app/?id=244392&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Punjabi ( Sling )
-https://restream-bay.vercel.app/?id=244408&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Punjabi Gold
-https://restream-bay.vercel.app/?id=355565&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Punjabi Gold ( Sling )
-https://restream-bay.vercel.app/?id=244410&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Simran
-https://restream-bay.vercel.app/?id=244379&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Ptc Simran ( Sling )
-https://restream-bay.vercel.app/?id=244409&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Punjab Plus HD
 https://restream-bay.vercel.app/?id=244394&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Punjab Plus HD
 https://restream-bay.vercel.app/?id=244399&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Punjab1 TV
 https://restream-bay.vercel.app/?id=244397&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",Punjabi Movies 24/7
+https://restream-bay.vercel.app/?id=251969&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",Punjabi Movies 24/7
+https://restream-bay.vercel.app/?id=251970&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",Punjabi Movies 24/7
+https://restream-bay.vercel.app/?id=252502&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",Punjabi Movies 24/7
+https://restream-bay.vercel.app/?id=252504&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="Punjabi",Punjabi Movies 24/7
+https://restream-bay.vercel.app/?id=341325&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Rangrez TV
 https://restream-bay.vercel.app/?id=244401&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Punjabi",Sangat TV
@@ -1939,8 +1935,6 @@ https://restream-bay.vercel.app/?id=109993&e=.m3u8
 https://restream-bay.vercel.app/?id=109994&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Unknown Channel
 https://restream-bay.vercel.app/?id=109982&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="Tamil",3 Tamil TV
-https://restream-bay.vercel.app/?id=380942&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="Tamil",7S Music
 https://restream-bay.vercel.app/?id=380972&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil",Aastha Tamil
@@ -1999,7 +1993,7 @@ https://restream-bay.vercel.app/?id=380998&e=.m3u8
 https://restream-bay.vercel.app/?id=381008&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil",Janam Tamil
 https://restream-bay.vercel.app/?id=381058&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="Tamil",Jaya Max
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="Tamil",Jaya MAX
 https://restream-bay.vercel.app/?id=381076&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Movie.png" group-title="Tamil",Jaya Movie
 https://restream-bay.vercel.app/?id=380981&e=.m3u8
@@ -2097,6 +2091,8 @@ https://restream-bay.vercel.app/?id=382346&e=.m3u8
 https://restream-bay.vercel.app/?id=382344&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil",Tamil One
 https://restream-bay.vercel.app/?id=381014&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="Tamil",Tamil TV
+https://restream-bay.vercel.app/?id=380942&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil",Tamilan Television
 https://restream-bay.vercel.app/?id=380976&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons-copy.png" group-title="Tamil",Tata Play Toons+
@@ -2123,12 +2119,8 @@ https://restream-bay.vercel.app/?id=380969&e=.m3u8
 https://restream-bay.vercel.app/?id=380970&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="Tamil",Zee Thirai
 https://restream-bay.vercel.app/?id=380984&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png" group-title="Telugu",10 TV
-https://restream-bay.vercel.app/?id=381088&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png" group-title="Telugu",4Tv News
 https://restream-bay.vercel.app/?id=381121&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",99 TV
-https://restream-bay.vercel.app/?id=382271&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png" group-title="Telugu",ABN Andhra Jyothi
 https://restream-bay.vercel.app/?id=381085&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Aastha Telugu
@@ -2245,6 +2237,10 @@ https://restream-bay.vercel.app/?id=382290&e=.m3u8
 https://restream-bay.vercel.app/?id=382282&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png" group-title="Telugu",T News
 https://restream-bay.vercel.app/?id=381171&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png" group-title="Telugu",TV
+https://restream-bay.vercel.app/?id=381088&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",TV
+https://restream-bay.vercel.app/?id=382271&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fastplayer.uk/images/5cf1335aa3209e809616340c22c05a49.png" group-title="Telugu",TV9 Telugu
 https://restream-bay.vercel.app/?id=250854&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-English-in-Telugu.png" group-title="Telugu",Tata Play English In Telugu
