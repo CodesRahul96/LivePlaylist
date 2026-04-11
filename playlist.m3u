@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-11 09:55:20 UTC)
+#EXTM3U (Last Checked: 2026-04-11 10:24:01 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id=tatasky_34 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",Sony Aath
@@ -8296,6 +8296,8 @@ https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tplay.cr7x.workers.dev/live/796.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442176767617_IFC_Dempo_Sports_Club_vs_Aizawl_FC_landscape_thumb.jpg" group-title="Sonyliv",Dempo Sports Club Vs Aizawl Fc 11 Apr
+https://sonydaimenew.akamaized.net/hls/live/2022319/DempoSpo1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775945760~acl=/*~id=46674290200365505042064705511892~hmac=524cfd114efca4cede0eaebf807b947b9b0dbe75e6dba6e2a51796b1b23cd168
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
