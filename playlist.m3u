@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-11 17:48:24 UTC)
+#EXTM3U (Last Checked: 2026-04-11 18:28:39 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id=tatasky_34 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",Sony Aath
@@ -67,6 +67,9 @@ https://tplay.cr7x.workers.dev/live/557.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tplay.cr7x.workers.dev/live/63.mpd
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg" group-title="Fancode",English Al Okhdood Club Vs Al Nassr Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140729_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="Fancode",English Fc Barcelona Vs Rcd Espanyol
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/131133_english.m3u8
@@ -8282,7 +8285,7 @@ https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tplay.cr7x.workers.dev/live/796.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg" group-title="Sonyliv",St. Pauli Vs Bayern Munich Md 29 11 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775972475~acl=/*~id=25997716666973862691479213688329~hmac=c55de512d4a1d65db954c949f40d016712676c8f904b9bb59300281b00d58665
+https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775974903~acl=/*~id=26977152998770467941140223656924~hmac=a5cdf932fbd107ac5ca469c6824218c748f0001f62734ec03fbaa3c7b4e1b674
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
