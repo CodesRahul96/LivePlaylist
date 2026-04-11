@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-11 11:00:16 UTC)
+#EXTM3U (Last Checked: 2026-04-11 11:44:05 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id=tatasky_34 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",Sony Aath
@@ -67,15 +67,21 @@ https://tplay.cr7x.workers.dev/live/557.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tplay.cr7x.workers.dev/live/63.mpd
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Fancode",English Botswana Women Vs Mozambique Women
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web-(1).jpg" group-title="Fancode",English A Zverev Vs J Sinner
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141903_english.m3u8
+https://fanco.vodep39240327.workers.dev/141918_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg" group-title="Fancode",English Chennaiyin Fc Vs East Bengal Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140482_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg" group-title="Fancode",English Iconic Super Knights Vs Melbourne Tuskers
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141754_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Fancode",English Japan U20 Vs Vietnam U20
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141629_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg" group-title="Fancode",English Norwich City F C Vs Ipswich Town F C
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141438_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode",English Semi Final Vs Monaco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141919_english.m3u8
@@ -8294,7 +8300,7 @@ https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tplay.cr7x.workers.dev/live/796.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442176767617_IFC_Dempo_Sports_Club_vs_Aizawl_FC_landscape_thumb.jpg" group-title="Sonyliv",Dempo Sports Club Vs Aizawl Fc 11 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022319/DempoSpo1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775948192~acl=/*~id=27521142188545278262726747487687~hmac=b923f6966f797bf47b70eb7793220d0a3ea1dccb8a94355ebc3918d5f429b942
+https://sonydaimenew.akamaized.net/hls/live/2022319/DempoSpo1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775950613~acl=/*~id=03120237605849718938318349950291~hmac=59cb4c2012657e2cf159da855c6901efc145e023e61796f1619a8bba6f323341
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
