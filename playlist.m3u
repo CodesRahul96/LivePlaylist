@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 09:58:33 UTC)
+#EXTM3U (Last Checked: 2026-04-12 10:37:26 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -8107,6 +8107,8 @@ https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tplay.cr7x.workers.dev/live/796.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="Sonyliv",Real Kashmir Fc Vs Gokulam Kerala Fc 12 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776033094~acl=/*~id=75962845062424776347984338416262~hmac=77d4af0ce38a4ad5c162bba51213581dafba501db0ccebe2405c830959d42e23
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
