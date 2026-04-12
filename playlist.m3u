@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 15:21:11 UTC)
+#EXTM3U (Last Checked: 2026-04-12 15:56:25 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -11,6 +11,9 @@ https://vt-ip.vodep39240327.workers.dev/752.m3u8
 https://vt-ip.vodep39240327.workers.dev/719.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE BANGLA US" tvg-logo="" group-title="Bengali",Zee Bangla Us
 https://vt-ip.vodep39240327.workers.dev/750.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141811_5973_MBSG_PFC_fc-web.jpg" group-title="Fancode",Bengali Mohun Bagan Super Giant Vs Punjab Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141811_bengali.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Sinner_fc-web.jpg" group-title="Fancode",English Alcaraz Vs Sinner
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141922_english.m3u8
@@ -8052,10 +8055,8 @@ https://vt-ip.vodep39240327.workers.dev/2057.m3u8
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593170855658_BLIGA_26_MD29_Koln-vs-Werder_landscape_thumb.jpg" group-title="Sonyliv",Fc Koln Vs Werder Bremen Md 29 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776050071~acl=/*~id=63004349475717009581170804790089~hmac=07db6531fdc85e669354fc58d31dcbefaac78fe00cb679eb42c576de943ed9b9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593762607658_BLIGA_26_MD29_VfB-Stuttgart-vs-Hamburger_landscape_thumb.jpg" group-title="Sonyliv",Vfb Stuttgart Vs Hamburger Sv Md 29 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776050071~acl=/*~id=63004349475717009581170804790089~hmac=07db6531fdc85e669354fc58d31dcbefaac78fe00cb679eb42c576de943ed9b9
+https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776052503~acl=/*~id=49140475390861684359897551455254~hmac=5c8454c1e5b326a79bbafd14a4b2fae1360bc8faf2a02714eff677ddbfc4268f
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
