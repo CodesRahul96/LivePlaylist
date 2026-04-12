@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 21:49:45 UTC)
+#EXTM3U (Last Checked: 2026-04-12 22:22:27 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -14,12 +14,6 @@ https://vt-ip.vodep39240327.workers.dev/750.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode",English Jamaica Scorpions Vs Barbados Pride
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141948_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode",English Leeward Islands Hurricanes Vs Trinidad Tobago Red Force
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141947_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode",English Windward Islands Volcanoes Vs Guyana Harpy Eagles
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141949_english.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name=" ZEE 24 KALAK" tvg-logo="" group-title="Gujarati",Zee 24 Kalak
 https://vt-ip.vodep39240327.workers.dev/1863.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" tvg-logo="" group-title="Hindi",Sony Bbc Earth 4K
