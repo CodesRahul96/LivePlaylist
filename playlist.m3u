@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 12:36:20 UTC)
+#EXTM3U (Last Checked: 2026-04-12 13:45:43 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -14,9 +14,9 @@ https://vt-ip.vodep39240327.workers.dev/750.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg" group-title="Fancode",Bengali Inter Kashi Vs Mohammedan Sc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141810_bengali.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg" group-title="Fancode",English Birmingham City F C Vs Wrexham A F C
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Sinner_fc-web.jpg" group-title="Fancode",English Alcaraz Vs Sinner
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141440_english.m3u8
+https://fanco.vodep39240327.workers.dev/141922_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg" group-title="Fancode",English Inter Kashi Vs Mohammedan Sc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140484_english.m3u8
@@ -8043,10 +8043,10 @@ https://vt-ip.vodep39240327.workers.dev/2057.m3u8
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="Sonyliv",Real Kashmir Fc Vs Gokulam Kerala Fc 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776040367~acl=/*~id=97015334758173566736726706568058~hmac=87e2b0b5b053449a5bac11c59d6148cc2ba53c2d0ed33b685390c38bc8fdcfe6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593170855658_BLIGA_26_MD29_Koln-vs-Werder_landscape_thumb.jpg" group-title="Sonyliv",Fc Koln Vs Werder Bremen Md 29 12 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776044612~acl=/*~id=97956689419434686206434287999184~hmac=8581f30d89ec14dbbe593642a07b628ac451f545b876b8b5db8319443d2eff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg" group-title="Sonyliv",Sreenidi Deccan Fc Vs Rajasthan United Fc 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776040367~acl=/*~id=97015334758173566736726706568058~hmac=87e2b0b5b053449a5bac11c59d6148cc2ba53c2d0ed33b685390c38bc8fdcfe6
+https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776044612~acl=/*~id=97956689419434686206434287999184~hmac=8581f30d89ec14dbbe593642a07b628ac451f545b876b8b5db8319443d2eff4d
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
