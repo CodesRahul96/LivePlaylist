@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 11:53:25 UTC)
+#EXTM3U (Last Checked: 2026-04-12 12:36:20 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -8044,7 +8044,9 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="Sonyliv",Real Kashmir Fc Vs Gokulam Kerala Fc 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776037943~acl=/*~id=44160472245195655299281111799943~hmac=fde0151880f243e3b5b38e6a57608522e045cf53b29f8719b3dfb6a5313b10d7
+https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776040367~acl=/*~id=97015334758173566736726706568058~hmac=87e2b0b5b053449a5bac11c59d6148cc2ba53c2d0ed33b685390c38bc8fdcfe6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg" group-title="Sonyliv",Sreenidi Deccan Fc Vs Rajasthan United Fc 12 Apr
+https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776040367~acl=/*~id=97015334758173566736726706568058~hmac=87e2b0b5b053449a5bac11c59d6148cc2ba53c2d0ed33b685390c38bc8fdcfe6
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
