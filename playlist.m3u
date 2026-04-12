@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 17:51:12 UTC)
+#EXTM3U (Last Checked: 2026-04-12 18:32:35 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -8044,7 +8044,7 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774594283087658_BLIGA_26_MD29_Mainz-vs-SC-Freiburg_landscape_thumb.jpg" group-title="Sonyliv",Mainz Vs Freiburg Md 29 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776059176~acl=/*~id=18183923347698623386739679524441~hmac=44b7c87920ff280106319e4ec69f77f227126f1964a49a455548ea752dc3f916
+https://sonydaimenew.akamaized.net/hls/live/2018457/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776061600~acl=/*~id=90062989513672392256310467961959~hmac=4c9d041ef3f2569b3b6b76590bb6c8d66acaed71c33be7ef4b47265368514857
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
