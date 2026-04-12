@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-12 11:19:42 UTC)
+#EXTM3U (Last Checked: 2026-04-12 11:53:25 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -11,18 +11,18 @@ https://vt-ip.vodep39240327.workers.dev/752.m3u8
 https://vt-ip.vodep39240327.workers.dev/719.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE BANGLA US" tvg-logo="" group-title="Bengali",Zee Bangla Us
 https://vt-ip.vodep39240327.workers.dev/750.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg" group-title="Fancode",Bengali Inter Kashi Vs Mohammedan Sc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141810_bengali.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg" group-title="Fancode",English Birmingham City F C Vs Wrexham A F C
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141440_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode",English Final Vs Monaco
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg" group-title="Fancode",English Inter Kashi Vs Mohammedan Sc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141923_english.m3u8
+https://fanco.vodep39240327.workers.dev/140484_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg" group-title="Fancode",English Namibia Vs Scotland
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141651_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg" group-title="Fancode",English Perth Glory Vs Macarthur
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140934_english.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name=" ZEE 24 KALAK" tvg-logo="" group-title="Gujarati",Zee 24 Kalak
 https://vt-ip.vodep39240327.workers.dev/1863.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" tvg-logo="" group-title="Hindi",Sony Bbc Earth 4K
@@ -8044,7 +8044,7 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="Sonyliv",Real Kashmir Fc Vs Gokulam Kerala Fc 12 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776035519~acl=/*~id=78428978207019681703828492914569~hmac=13f07616abb6b3c6dff726b7f14dc39dd99f0ee6f6d297552fc5025b694582dc
+https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776037943~acl=/*~id=44160472245195655299281111799943~hmac=fde0151880f243e3b5b38e6a57608522e045cf53b29f8719b3dfb6a5313b10d7
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SonylivChannel" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Bbc Earth
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
