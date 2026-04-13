@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-13 08:34:39 UTC)
+#EXTM3U (Last Checked: 2026-04-13 10:21:18 UTC)
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY AATH" tvg-logo="" group-title="Bengali",Sony Aath
 https://vt-ip.vodep39240327.workers.dev/753.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="STAR JALSHA HD INDIA" tvg-logo="" group-title="Bengali",Star Jalsha India HD
@@ -11,6 +11,9 @@ https://vt-ip.vodep39240327.workers.dev/752.m3u8
 https://vt-ip.vodep39240327.workers.dev/719.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE BANGLA US" tvg-logo="" group-title="Bengali",Zee Bangla Us
 https://vt-ip.vodep39240327.workers.dev/750.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Fancode",English Feed Vs Barcelona
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141825_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141758_6028_MET_BRS_FC-WEB.jpg" group-title="Fancode",English Melbourne Tuskers Vs Brisbane Stars
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141758_english.m3u8
