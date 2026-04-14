@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-14 18:34:31 UTC)
+#EXTM3U (Last Checked: 2026-04-14 18:37:46 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705136.ts
@@ -49,8 +49,6 @@ https://fanco.vodep39240327.workers.dev/141947_english.m3u8
 https://fanco.vodep39240327.workers.dev/141949_english.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name=" ZEE 24 KALAK" tvg-logo="" group-title="Gujarati",Zee 24 Kalak
 https://vt-ip.vodep39240327.workers.dev/1863.m3u8
-#EXTINF:-1 tvg-id="No details available" tvg-name="DISCOVERY 4K INDIA" tvg-logo="" group-title="Hindi",Discovery India 4K
-https://vt-ip.vodep39240327.workers.dev/1726.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="MINIPLEX 4K" tvg-logo="" group-title="Hindi",Miniplex 4K
 https://vt-ip.vodep39240327.workers.dev/1725.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" tvg-logo="" group-title="Hindi",Sony Bbc Earth 4K
@@ -7399,25 +7397,25 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776234961~acl=/*~id=91674431981986388247351155613845~hmac=1afcdbf9a2e32728685146c221c453a09d5c90fb0bcf67fae64a04554301c4dd
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
