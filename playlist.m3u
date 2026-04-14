@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-14 18:23:12 UTC)
+#EXTM3U (Last Checked: 2026-04-14 18:34:31 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705136.ts
@@ -49,6 +49,8 @@ https://fanco.vodep39240327.workers.dev/141947_english.m3u8
 https://fanco.vodep39240327.workers.dev/141949_english.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name=" ZEE 24 KALAK" tvg-logo="" group-title="Gujarati",Zee 24 Kalak
 https://vt-ip.vodep39240327.workers.dev/1863.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="DISCOVERY 4K INDIA" tvg-logo="" group-title="Hindi",Discovery India 4K
+https://vt-ip.vodep39240327.workers.dev/1726.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="MINIPLEX 4K" tvg-logo="" group-title="Hindi",Miniplex 4K
 https://vt-ip.vodep39240327.workers.dev/1725.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" tvg-logo="" group-title="Hindi",Sony Bbc Earth 4K
@@ -7396,90 +7398,90 @@ http://ipl26.tgaadi.workers.dev/cskvskkr/telugu/master.m3u8
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="Sonyliv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="Sonyliv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="Sonyliv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="Sonyliv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="Sonyliv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="Sonyliv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="Sonyliv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="Sonyliv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="Sonyliv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="Sonyliv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776233744~acl=/*~id=07371344300292595800553934004058~hmac=41c73a0bcc7a1812751e151e720326b9ff867d8cda1c5ba0b2020bac0eb87ddd
-#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg" group-title="SonyLiv",Atletico Vs Barcelona Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Liverpool Vs Psg Quarter Final Leg 2 14 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005444/UCL_Live1404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776234352~acl=/*~id=98422595463018600721021301280457~hmac=d49290dbc321cc0e34c8b9c48aa80cc0cd6a15f7f0c571c66f1f8208b8ae04eb
+#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
-#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonylivChannel",Sony Aath
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLiv",Sony Aath
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Aath.m3u8
-#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony Bbc Earth HD
+#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony Bbc Earth HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20BBC%20Earth%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony MAX
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony MAX
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20MAX.m3u8
-#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="Sony MAX2" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/vm32jdgy/sonymax2.webp",Sony MAX 2
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="Sony MAX2" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/vm32jdgy/sonymax2.webp",Sony MAX 2
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20MAX2.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony MAX HD
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony MAX HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Max%20HD.m3u8
-#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonylivChannel",Sony Marathii
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLiv",Sony Marathii
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Marathi.m3u8
-#EXTINF:-1 tvg-id="Sony Pal.in" tvg-name="Sony Pal" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
+#EXTINF:-1 tvg-id="Sony Pal.in" tvg-name="Sony Pal" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Pal.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="SonylivChannel",Sony Pix HD
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="SonyLiv",Sony Pix HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20PIX%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
+#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sab%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="Sony Sports Ten 1 HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony Ten 1 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="Sony Sports Ten 1 HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony Ten 1 HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%201%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-name="Sony Sports Ten 1" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony Ten 1 SD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-name="Sony Sports Ten 1" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony Ten 1 SD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%201.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="Sony Sports Ten 2 HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony Ten 2 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="Sony Sports Ten 2 HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony Ten 2 HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%202%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-name="Sony Sports Ten 2" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony Ten 2 SD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-name="Sony Sports Ten 2" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony Ten 2 SD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%202.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony Sports Ten 3 HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony Ten 3 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony Sports Ten 3 HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony Ten 3 HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%203%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony Sports Ten 3" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony Ten 3 SD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony Sports Ten 3" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony Ten 3 SD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%203.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony Sports Ten 4 HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony Ten 4 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony Sports Ten 4 HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony Ten 4 HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%204%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony Sports Ten 4" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony Ten 4 SD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony Sports Ten 4" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony Ten 4 SD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%204.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="Sony Sports Ten 5 HD" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony Ten 5 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="Sony Sports Ten 5 HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony Ten 5 HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%205%20HD.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-name="Sony Sports Ten 5" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony Ten 5 SD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-name="Sony Sports Ten 5" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony Ten 5 SD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Sports%20Ten%205.m3u8
-#EXTINF:-1 tvg-id="Sony Wah.in" tvg-name="Sony WAH" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/HxJG9LSR/sonywah.webp",Sony Wah
+#EXTINF:-1 tvg-id="Sony Wah.in" tvg-name="Sony WAH" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/HxJG9LSR/sonywah.webp",Sony Wah
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20WAH.m3u8
-#EXTINF:-1 tvg-id="SONY YAY!.in" tvg-name="Sony Yay" group-title="SonylivChannel" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
+#EXTINF:-1 tvg-id="SONY YAY!.in" tvg-name="Sony Yay" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Yay.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="A SPORTS 4K*" tvg-logo="" group-title="Sports",A Sports * 4K
