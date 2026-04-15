@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-15 19:15:21 UTC)
+#EXTM3U (Last Checked: 2026-04-15 20:10:49 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705136.ts
@@ -38,9 +38,6 @@ https://fanco.vodep39240327.workers.dev/140731_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode",English Jamaica Scorpions Vs Barbados Pride
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141948_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode",English Windward Islands Volcanoes Vs Guyana Harpy Eagles
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141949_english.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name=" ZEE 24 KALAK" tvg-logo="" group-title="Gujarati",Zee 24 Kalak
 https://vt-ip.vodep39240327.workers.dev/1863.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="MINIPLEX 4K" tvg-logo="" group-title="Hindi",Miniplex 4K
@@ -7391,25 +7388,25 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775436228347802_UCL26_QF_leg2_Arsenal_vs_Sporting_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Arsenal Vs Sporting Cp Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775436228347802_UCL26_QF_leg2_Arsenal_vs_Sporting_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Arsenal Vs Sporting Cp Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775436228347802_UCL26_QF_leg2_Arsenal_vs_Sporting_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Arsenal Vs Sporting Cp Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775436228347802_UCL26_QF_leg2_Arsenal_vs_Sporting_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Arsenal Vs Sporting Cp Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775436228347802_UCL26_QF_leg2_Arsenal_vs_Sporting_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Arsenal Vs Sporting Cp Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2018457/Arsenal_1504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Bayern Vs Real Madrid Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Bayern Vs Real Madrid Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Bayern Vs Real Madrid Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Bayern Vs Real Madrid Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg" group-title="SonyLiv",Bayern Vs Real Madrid Quarter Final Leg 2 15 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776323548~acl=/*~id=48625968355106636856848943709089~hmac=994426e8b940f183fa82df764d43dbf1e610ce39a0868b07984e24a33727146e
+https://sonydaimenew.akamaized.net/hls/live/2005445/UCL_Baye1504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776326586~acl=/*~id=37149143437809739931359015289074~hmac=5205f2fd66a2978ac045dc755b0806dea780bc6476460ce9b0bb397ad34076e7
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
