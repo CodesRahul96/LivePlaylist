@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-16 21:09:14 UTC)
+#EXTM3U (Last Checked: 2026-04-16 21:57:41 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705136.ts
@@ -32,18 +32,12 @@ https://vt-ip.vodep39240327.workers.dev/752.m3u8
 https://vt-ip.vodep39240327.workers.dev/719.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE BANGLA US" tvg-logo="" group-title="Bengali",Zee Bangla Us
 https://vt-ip.vodep39240327.workers.dev/750.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode",English Bromley Vs Cambridge United
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141530_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141934_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141936_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141935_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141930_english.m3u8
@@ -7316,16 +7310,8 @@ https://tinyurl.com/link-macha-official-collab-vt1/705154.ts
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152821982363_UECL26_QF_leg2_AEK_Athens_vs_Rayo_Vallecano_2apr_landscape_thumb.jpg" group-title="SonyLiv",Athens Fc Vs Rayo Vallecano Quarter Final Leg 2 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022319/Athens_F1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776416357~acl=/*~id=86653213005662291028737228394456~hmac=3cca29466d4486712ce4f9d977c03e31b488547b6ece1ab94b2acffcfadb327b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152567415363_UECL26_QF_leg2_Fiorentina_vs_Crystal_Palace_2apr_landscape_thumb.jpg" group-title="SonyLiv",Fiorentina Vs Crystal Palace Fc Quarter Final Leg 2 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/Fiorenti1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776416357~acl=/*~id=86653213005662291028737228394456~hmac=3cca29466d4486712ce4f9d977c03e31b488547b6ece1ab94b2acffcfadb327b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624298415552_Golf_Mexico_Day1_landscape_thumb.jpg" group-title="SonyLiv",Mexico City Day 1 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776416357~acl=/*~id=86653213005662291028737228394456~hmac=3cca29466d4486712ce4f9d977c03e31b488547b6ece1ab94b2acffcfadb327b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775141471468765_UEL26_QuarterFinal_Leg2_Nottingham_Forest_vs_Porto_30mar_landscape_thumb.jpg" group-title="SonyLiv",Nottingham Forest Vs Porto Quarter Final Leg 2 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022318/Nottingh1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776416357~acl=/*~id=86653213005662291028737228394456~hmac=3cca29466d4486712ce4f9d977c03e31b488547b6ece1ab94b2acffcfadb327b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137553843765_UEL26_QuarterFinal_Leg2_Real_Betis_vs_Braga_30mar_landscape_thumb.jpg" group-title="SonyLiv",Real Betis Vs Braga Quarter Final Leg 2 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005445/Real_Bet1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776416357~acl=/*~id=86653213005662291028737228394456~hmac=3cca29466d4486712ce4f9d977c03e31b488547b6ece1ab94b2acffcfadb327b
+https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776419390~acl=/*~id=36245397919838850275612110401574~hmac=6a8c6b8dd662d55b12cb57ec505e2bc28ff66fe126bd2d975749feedc53b413f
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
@@ -7392,8 +7378,6 @@ https://sl.vodep39240327.workers.dev/channel/Sony%20WAH.m3u8
 #EXTINF:-1 tvg-id="SONY YAY!.in" tvg-name="Sony Yay" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Yay.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775153733910363_UECL26_QF_leg2_Strasbourg_vs_Mainz_2apr_landscape_thumb.jpg" group-title="SonyLiv",Strasbourg Vs Mainz Quarter Final Leg 2 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022315/Strasbou1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776416357~acl=/*~id=86653213005662291028737228394456~hmac=3cca29466d4486712ce4f9d977c03e31b488547b6ece1ab94b2acffcfadb327b
 #EXTINF:-1 tvg-id="No details available" tvg-name="A SPORTS 4K*" tvg-logo="" group-title="Sports",A Sports * 4K
 https://vt-ip.vodep39240327.workers.dev/2427.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ASTRO CRICKET 4K*" tvg-logo="" group-title="Sports",Astro Cricket * 4K
