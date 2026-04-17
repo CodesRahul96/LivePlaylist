@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-17 17:32:29 UTC)
+#EXTM3U (Last Checked: 2026-04-17 18:33:43 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705136.ts
@@ -32,15 +32,12 @@ https://vt-ip.vodep39240327.workers.dev/752.m3u8
 https://vt-ip.vodep39240327.workers.dev/719.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE BANGLA US" tvg-logo="" group-title="Bengali",Zee Bangla Us
 https://vt-ip.vodep39240327.workers.dev/750.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Fancode",English
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png" group-title="Fancode",English Machida Zelvia Vs Al Ittihad
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141833_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png" group-title="Fancode",English Al Ahli Saudi Fc Vs Johor Darul Ta Zim
+https://fanco.vodep39240327.workers.dev/141675_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png" group-title="Fancode",English Real Sociedad B Vs Racing Club
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141674_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg" group-title="Fancode",English Golf Vs Course
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/142043_english.m3u8
+https://fanco.vodep39240327.workers.dev/141959_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141937_english.m3u8
@@ -7380,9 +7377,9 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624349331352_Golf_Mexico_Day2_landscape_thumb.jpg" group-title="SonyLiv",Mexico City Day 2 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490293~acl=/*~id=45600762922747436364432522732882~hmac=0484fb59b2823c28732acf1bfc68f5feaf5d6dcf0ee4c2f8ac0ed633ddc0929b
+https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493942~acl=/*~id=51321141807106632983975361261002~hmac=b075ddd67d961152f14083d9f959f9e9c28e6091ae211526e570fdd28ed7ca01
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg" group-title="SonyLiv",Real Madrid Vs Psg Semi Final 17 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490293~acl=/*~id=45600762922747436364432522732882~hmac=0484fb59b2823c28732acf1bfc68f5feaf5d6dcf0ee4c2f8ac0ed633ddc0929b
+https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493942~acl=/*~id=51321141807106632983975361261002~hmac=b075ddd67d961152f14083d9f959f9e9c28e6091ae211526e570fdd28ed7ca01
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
@@ -7449,6 +7446,8 @@ https://sl.vodep39240327.workers.dev/channel/Sony%20WAH.m3u8
 #EXTINF:-1 tvg-id="SONY YAY!.in" tvg-name="Sony Yay" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Yay.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438170185352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_landscape_thumb.jpg" group-title="SonyLiv",St. Pauli Vs Fc Koln Md 30 18 Apr
+https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493942~acl=/*~id=51321141807106632983975361261002~hmac=b075ddd67d961152f14083d9f959f9e9c28e6091ae211526e570fdd28ed7ca01
 #EXTINF:-1 tvg-id="No details available" tvg-name="A SPORTS 4K*" tvg-logo="" group-title="Sports",A Sports * 4K
 https://vt-ip.vodep39240327.workers.dev/2427.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ASTRO CRICKET 4K*" tvg-logo="" group-title="Sports",Astro Cricket * 4K
