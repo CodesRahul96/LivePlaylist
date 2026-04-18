@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-18 11:55:08 UTC)
+#EXTM3U (Last Checked: 2026-04-18 12:36:58 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M1 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705142.ts
@@ -47,12 +47,12 @@ https://fanco.vodep39240327.workers.dev/141816_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="Fancode",English Melbourne Tuskers Vs Everest Falcons
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141765_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="Fancode",English Namibia Vs Scotland
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/142017_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg" group-title="Fancode",English Portsmouth F C Vs Leicester City F C
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141527_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg" group-title="Fancode",English Sydney Fc Vs Perth Glory
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140938_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141942_english.m3u8
@@ -7398,10 +7398,12 @@ https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="SonyLiv",Diamond Harbour Fc Vs Gokulam Kerala Fc 18 Apr
-https://sonydaimenew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776556382~acl=/*~id=44452308604086734489619503926707~hmac=51ba65fba4789f2a75c802049887081a5b092baeb9d04a76560c5fa55d5cb8f5
+https://sonydaimenew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776558809~acl=/*~id=99193580728022167174177004235335~hmac=1c9a15264a4c6e6bc243fc5895626d7d219ab45f24e6c08a2a4aabde7554e162
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788487557263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="SonyLiv",Shillong Lajong Fc Vs Aizawl Fc 18 Apr
+https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Shil1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776558809~acl=/*~id=99193580728022167174177004235335~hmac=1c9a15264a4c6e6bc243fc5895626d7d219ab45f24e6c08a2a4aabde7554e162
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLiv",Sony Aath
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Aath.m3u8
