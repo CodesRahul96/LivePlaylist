@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-18 10:00:01 UTC)
+#EXTM3U (Last Checked: 2026-04-18 10:43:29 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M1 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705142.ts
@@ -35,6 +35,9 @@ https://fanco.vodep39240327.workers.dev/141765_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg" group-title="Fancode",English Sydney Fc Vs Perth Glory
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140938_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141942_english.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name=" ZEE 24 KALAK" tvg-logo="" group-title="Gujarati",Zee 24 Kalak
 https://vt-ip.vodep39240327.workers.dev/1863.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="MINIPLEX 4K" tvg-logo="" group-title="Hindi",Miniplex 4K
@@ -1984,12 +1987,18 @@ https://keys.lrl45.workers.dev/mpd/857
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://keys.lrl45.workers.dev/mpd/1131
-#EXTINF:-1 tvg-id="41507" group-title="JioEntertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
+#EXTINF:-1 tvg-id="3266" group-title="JioEntertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png",Vijay Super HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=41507
+#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=3266
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://keys.lrl45.workers.dev/mpd/41507
+https://keys.lrl45.workers.dev/mpd/3266
+#EXTINF:-1 tvg-id="3269" group-title="JioEntertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=3269
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/3269
 #EXTINF:-1 tvg-id="734" group-title="JioEntertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=734
@@ -2960,12 +2969,6 @@ https://keys.lrl45.workers.dev/mpd/738
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://keys.lrl45.workers.dev/mpd/684
-#EXTINF:-1 tvg-id="899" group-title="JioMovies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=899
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://keys.lrl45.workers.dev/mpd/899
 #EXTINF:-1 tvg-id="3060" group-title="JioMovies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png",Hiff Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=3060
@@ -3188,6 +3191,12 @@ https://keys.lrl45.workers.dev/mpd/3100
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://keys.lrl45.workers.dev/mpd/1136
+#EXTINF:-1 tvg-id="899" group-title="JioMovies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Sun Gemini Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=899
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1776499231~exp=1776520831~acl=/*~hmac=fb7e4d0d927091e6c8ec6864ac112162b176d35f5b8be43fd3a701fdf73015cb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/899
 #EXTINF:-1 tvg-id="682" group-title="JioMovies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png",Sun Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id=682
@@ -7367,6 +7376,8 @@ https://tinyurl.com/link-macha-official-collab-vt1/705139.ts
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="SonyLiv",Diamond Harbour Fc Vs Gokulam Kerala Fc 18 Apr
+https://sonydaimenew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776552134~acl=/*~id=82344575374298571136567234410259~hmac=eb22a7966b8125fd45e64921e49cdc932d716bcc305e94a3e7c5143cd414bd05
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
