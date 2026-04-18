@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-18 16:36:40 UTC)
+#EXTM3U (Last Checked: 2026-04-18 17:20:29 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M1 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705142.ts
@@ -32,9 +32,6 @@ https://vt-ip.vodep39240327.workers.dev/750.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743564/141676_CASACARDS_APP.png" group-title="Fancode",English Buriram United Vs Shabab Al Ahli
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141676_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278978/141960_CASACARDS_APP.png" group-title="Fancode",English Real Zaragoza Vs Ceuta
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141960_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Fancode",ENGLISH - Island,Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141942_english.m3u8
@@ -7390,12 +7387,94 @@ https://tinyurl.com/link-macha-official-collab-vt1/705138.ts
 #EXTINF:-1 tvg-id="1106" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 Telugu 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705139.ts
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Batter Cam 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/batter_cam/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Bengali 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/bengali/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Bhojpuri 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk English 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/english/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Field Cam 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/field_cam/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Gujarati 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/gujarati/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Haryanvi 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/haryanvi/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Hero Cam 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/hero_cam/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Hindi 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/hindi/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Kannada 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/kannada/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Malayalam 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/malayalam/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Marathi 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/marathi/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Punjabi 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/punjabi/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Stump Cam 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/stump_cam/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Tamil 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/tamil/master.m3u8
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="Night⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Srh Vs Csk Telugu 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/srhvscsk/telugu/master.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJAB-HARYANA" tvg-logo="" group-title="Punjabi",Zee Punjab Haryana
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438832385352_bliga26_MD30_Frankfurt_vs_Leipzig_5apr_landscape_thumb.jpg" group-title="SonyLiv",Eintracht Frankfurt Vs Rb Leipzig Md 30 18 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776573393~acl=/*~id=71152136029804046047704614890911~hmac=75f2aa6d3a3f79e1a2588e8c30a751f706ef38d213a6ebef9c198d3a79217416
+https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776575821~acl=/*~id=29899102095346478682916955537375~hmac=84101e817734fed719a8321bff9088de9ac7e20fa02d1c377bd9719940d19a5e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="SonyLiv",Mexico City Day 3 18 Apr
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776575821~acl=/*~id=29899102095346478682916955537375~hmac=84101e817734fed719a8321bff9088de9ac7e20fa02d1c377bd9719940d19a5e
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
