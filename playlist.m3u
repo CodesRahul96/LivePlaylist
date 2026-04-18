@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-18 17:57:57 UTC)
+#EXTM3U (Last Checked: 2026-04-18 18:43:19 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M1 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705142.ts
@@ -7474,10 +7474,8 @@ http://ipl26.tgaadi.workers.dev/srhvscsk/telugu/master.m3u8
 https://vt-ip.vodep39240327.workers.dev/559.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="Punjabi",Zee Punjabi
 https://vt-ip.vodep39240327.workers.dev/582.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438832385352_bliga26_MD30_Frankfurt_vs_Leipzig_5apr_landscape_thumb.jpg" group-title="SonyLiv",Eintracht Frankfurt Vs Rb Leipzig Md 30 18 Apr
-https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776578252~acl=/*~id=88479914087934579195453235137366~hmac=8e5d55d4edb5fa5c114cc7301662947e98dc87e15229de2f9c385b46e53c274b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="SonyLiv",Mexico City Day 3 18 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776578252~acl=/*~id=88479914087934579195453235137366~hmac=8e5d55d4edb5fa5c114cc7301662947e98dc87e15229de2f9c385b46e53c274b
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776580680~acl=/*~id=43815924605579410062219048028415~hmac=4f61533b7e20f705d7282bf2b013a8e5ae0f3b21bbbe35eb61413b9c5404f100
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
