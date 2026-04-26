@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-26 10:05:56 UTC)
+#EXTM3U (Last Checked: 2026-04-26 11:01:26 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M1 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705142.ts
@@ -6471,8 +6471,6 @@ https://live15p.hotstar.com/hls/live/2004207/inallow-ipl-2026/tel/1540066406/15m
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681491077468_Asian_Tour_Singapore_Open_Day4_Live_landscape_thumb.jpg" group-title="SonyLiv",Singapore Open Day 4 26 Apr
-https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777240625~acl=/*~id=72057598381919869248559787011859~hmac=b3bd96505b142dab311c9630bcefc3a46119472dedb98e6889178a16adc19035
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLiv",Sony Aath
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/Sony%20Aath.m3u8
