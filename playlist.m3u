@@ -1,4 +1,4 @@
-#EXTM3U (Last Checked: 2026-04-28 20:15:48 UTC)
+#EXTM3U (Last Checked: 2026-04-28 21:34:23 UTC)
 #EXTINF:-1 tvg-id="1106" group-title="Afternoon⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli ) M2 English 4K
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://tinyurl.com/link-macha-official-collab-vt1/705136.ts
@@ -6078,15 +6078,15 @@ https://tinyurl.com/link-macha-official-collab-vt1/705154.ts
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="SonyLiv",Psg Vs Bayern Semi Final Leg 1 29 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777454771~acl=/*~id=36582341170710266321598834054963~hmac=6c32c9065254efa68b5a1d777c8f05b360def8c87b22d453f44c2cd550dff5a4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="SonyLiv",Psg Vs Bayern Semi Final Leg 1 29 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777454771~acl=/*~id=36582341170710266321598834054963~hmac=6c32c9065254efa68b5a1d777c8f05b360def8c87b22d453f44c2cd550dff5a4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="SonyLiv",Psg Vs Bayern Semi Final Leg 1 29 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777454771~acl=/*~id=36582341170710266321598834054963~hmac=6c32c9065254efa68b5a1d777c8f05b360def8c87b22d453f44c2cd550dff5a4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="SonyLiv",Psg Vs Bayern Semi Final Leg 1 29 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777454771~acl=/*~id=36582341170710266321598834054963~hmac=6c32c9065254efa68b5a1d777c8f05b360def8c87b22d453f44c2cd550dff5a4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="SonyLiv",Psg Vs Bayern Semi Final Leg 1 29 Apr
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777454771~acl=/*~id=36582341170710266321598834054963~hmac=6c32c9065254efa68b5a1d777c8f05b360def8c87b22d453f44c2cd550dff5a4
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="SonyLiv" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
